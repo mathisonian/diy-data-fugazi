@@ -890,9 +890,9 @@ hr {
 body {
 margin: 0;
 padding: 0;
-/* overflow: hidden;
+overflow: hidden;
 width: 100vw;
-height:100vh; */
+height:100vh;
 background: black;
 }
 
@@ -938,10 +938,13 @@ i p {
   /* pointer-events: none; */
 }
 
+.controls h2:first-of-type {
+  margin-top: 0;
+}
 button {
   display: inline-block;
   text-align: center;
-  margin: 10px 10px;
+  margin: 5px 5px;
   padding: 10;
   border: none;
   cursor: pointer;
@@ -950,15 +953,33 @@ button {
   border: solid 2px white;
   color: white;
 }
+button:focus {outline:0;}
+
+p button {
+  display: block;
+  font-size: 1rem;
+  margin: 0 auto;
+  border: solid 2px white;
+  color: white;
+}
+
+button.selected {
+  background:#d5453c;
+  color: white;
+  /* border: solid 2px white; */
+}
 
 button.start {
   display: block;
   margin: 0 auto;
-  padding: 10;
+  padding: 7px 14px;
   border: none;
   text-transform: uppercase;
   font-size: 1.6em;
   cursor: pointer;
+  border: none;
+  color: black;
+  background: white;
 }
 
 .article-header .byline {
@@ -966,6 +987,7 @@ button.start {
   display: block;
   width: 50%;
   margin: 3em auto;
+  text-shadow: 2px 2px 2px #222;
 }
 
 .article-header .byline {
