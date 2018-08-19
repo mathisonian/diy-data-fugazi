@@ -897,8 +897,7 @@ background: black;
 }
 
 .article-header {
-  /* max-width: 00px; */
-    text-align: center;
+  text-align: center;
 }
 
 a {
@@ -913,12 +912,8 @@ i p {
 .article-header .dek,
 .article-header .byline {
   display: inline;
-  /* background: black; */
   padding: 10px;
-  /* box-shadow: 20px 20px 10px black, -20px -20px 10px black, -20px 20px 10px black, 20px -20px 10px black, 20px 0 10px black, -20px 0 10px black; */
-  /* line-height: 80px; */
   text-align: center;
-  /* font-family: 'EB Garamond', serif; */
 }
 
 .article-header .hed {
@@ -926,16 +921,8 @@ i p {
   font-size: 4em;
   line-height: 1.5em;
   text-align: center;
- /* -webkit-text-stroke: 0.25px #ccc; */
- text-shadow: 4px 4px 4px #222;
- font-weight: bold;
- /* font-family: Arial, Helvetica, sans-serif; */
-
- /* font-weight: normal; */
-}
-
-.idyll-text-container {
-  /* pointer-events: none; */
+  text-shadow: 4px 4px 4px #222;
+  font-weight: bold;
 }
 
 .controls h2:first-of-type {
@@ -994,23 +981,15 @@ button.start {
   font-size: 1.4em;
   margin-top: 1em;
   font-family: Arial, Helvetica, sans-serif;
-  /* color: #a52a2a; */
 }
 p {
-  /* display: inline; */
   background: black;
   padding: 1.6em 1em;
-  /* padding-top: 2em;
-  padding-bottom: 2em; */
   box-shadow: 20px 0 10px black, -20px 0 10px black;
-  /* font-family: Georgia,Times,Times New Roman,serif; */
   font-family: 'EB Garamond', serif;
-
   font-size: 24px;
   margin-bottom: 2em;
 }
-
-
 
 .mapboxgl-canvas {
   left: 0;
@@ -1023,7 +1002,6 @@ p {
   padding-top: 25vh;
   position: relative;
   top: -100vh;
-  /* padding-bottom: -50vh; */
   margin-bottom: -100vh;
 }
 
@@ -1037,69 +1015,32 @@ p {
   background: rgba(0, 0, 0, 0.0);
   background: none;
   border-radius: 10px;
-  /* box-shadow: 0 15px 5px rgba(0, 0, 0, 0.3); */
-  /* border: solid 3px black; */
   padding: 25px;
   margin-top: 50vh;
   margin-bottom: 50vh;
-  /* background: linear-gradient(0, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0) 100%); */
 }
 .idyll-step:first-of-type {
   margin-top: 0;
 }
-
-
 .idyll-stepper {
   margin: 0;
 }
 
-
 .idyll-step-content {
-  /* right: 10px; */
   left: 50%;
-
   text-align: center;
   transform: translateX(-50%);
   bottom: 10px;
   width: auto;
-  /* bottom: auto; */
   right: auto;
   background: rgba(0, 0, 0, 0.0);
 }
 
 .idyll-loading {
   color: white;
-  /* font-size: 3rem; */
-  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
 }
 
 h1, h2, h3, h4,h5 {
-  /* font-family: 'Hanalei Fill', cursive; */
-  font-family: Verdana, Geneva, sans-serif;
-  /* font-family: Georgia,Times,Times New Roman,serif; */
   font-family: 'EB Garamond', serif;
-
   border-bottom: none;
-  /* font-weight: normal; */
-}
-
-@keyframes kenburns {
-  0% {
-    opacity: 0;
-    overflow: hidden;
-    width: 100%;
-  }
-  5% {
-    opacity: 1;
-  }
-  95% {
-      transform: scale3d(1.5, 1.5, 1.5) translate3d(-190px, -120px, 0px);
-      animation-timing-function: ease-in;
-      opacity: 1;
-  }
-  100% {
-      transform: scale3d(2, 2, 2) translate3d(-170px, -100px, 0px);
-      opacity: 0;
-      overflow: hidden;
-  }
 }
