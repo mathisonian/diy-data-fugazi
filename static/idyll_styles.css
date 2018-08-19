@@ -1044,3 +1044,10 @@ h1, h2, h3, h4,h5 {
   font-family: 'EB Garamond', serif;
   border-bottom: none;
 }
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 800px) {
+  .article-header .hed {
+    font-size: 2em;
+  }
+}
