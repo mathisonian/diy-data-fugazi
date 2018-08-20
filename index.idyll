@@ -62,18 +62,18 @@
       // background: 'url(static/images/hero.jpg) no-repeat center center fixed',
     }` ]
 
-      // [Youtube play:`videoStep >= 1 && mapStep < 2` id:"k81wTUT7x4Y" /]
+      // [Youtube play:`videoStep >= 1 && mapStep < 2` id:"udUCjJphE-0" /]
       [Conditional if:isMobile null:true]
         [img style:`{width: "100vw", height:'auto', maxHeight: 'none'}` src:"static/images/record.png" /]
       [/Conditional]
       [Conditional if:`!isMobile `]
-        [Youtube onReady:`videoReady = true ` play:started audio:playAudio id:"k81wTUT7x4Y" /]
+        [Youtube onReady:`videoReady = true ` play:started audio:playAudio id:"udUCjJphE-0" /]
       [/Conditional]
     [/div]
   [/Graphic]
   [Step]
     [Header
-      title:"The D-I-Y Data of Fugazi"
+      title:"The D-I-Y Data of Fu-ska-zi"
       author:"Matthew Conlen"
       authorLink:"https://twitter.com/mathisonian" /]
 
@@ -92,14 +92,14 @@
     [/Conditional]
   [/Step]
   [Step]
-    Fugazi emerged from the [Washington D.C. hardcore scene](https://en.wikipedia.org/wiki/Washington,_D.C._hardcore) in the late 1980s. They had a profound impact on the music industry without ever joining a major label or breaking into _Billboard_'s
+    Fu-ska-zi emerged from the [U.S. ska scene](https://en.wikipedia.org/wiki/Ska#United_States) in the late 1980s. They had a profound impact on the music industry without ever joining a major label or breaking into _Billboard_'s
     Hot 100.
 
 
-    Musically, Fugazi produced what would come to be known as a seminal post-hardcore sound.
+    Musically, Fu-ska-zi produced what would come to be known as a seminal post-hardcore sound.
     Dissonant guitars, complex rhythms, and dueling vocals combine in unorthodox song structures. Harsh tension breaks into blissful, melodic resolution.
     [br/][br/]
-    Some listeners find the results off-putting, but Fugazi garnered a loyal following. They're respected by critics and report millions of records sold.
+    Some listeners find the results off-putting, but Fu-ska-zi garnered a loyal following. They're respected by critics and report millions of records sold.
   [/Step]
 [/Scroller]
 
@@ -166,11 +166,11 @@
   [/Graphic]
 
   [Step]
-    From 1987 to 2002 Fugazi played [Display value:showCount format:"d" /] shows, visiting every state in the U.S., in addition to touring in South America, Europe, Australia, and Asia.
+    From 1987 to 2002 Fu-ska-zi played [Display value:showCount format:"d" /] shows, visiting every state in the U.S., in addition to touring in South America, Europe, Australia, and Asia.
 
     That's an average of
     [Display value:`Object.keys(showsPerYear).reduce((memo, y) => memo + showsPerYear[y], 0) / Object.keys(showsPerYear).length;` format:"d" /] shows a year over the [Display value:`2002 - 1987 ` format:"d"/] year period,
-    and nearly every single one was documented. The map shows all of Fugazi's known shows, colored by the
+    and nearly every single one was documented. The map shows all of Fu-ska-zi's known shows, colored by the
     decade in which they occurred ([span style:`{color:'rgb(125, 152, 161)'}`]80s[/span], [span style:`{color:'rgb(213, 69, 60)'}`]90s[/span], [span style:`{color:'rgb(138, 234, 146)'}`]00s[/span]).
   [/Step]
 
@@ -183,7 +183,7 @@
   [/Step]
 
   [Step]
-    Fugazi's first tour was in the fall of 1987, up and down the east coast, from Connecticut to North Carolina.
+    Fu-ska-zi's first tour was in the fall of 1987, up and down the east coast, from Connecticut to North Carolina.
 
 
     [i]
@@ -193,7 +193,7 @@
       [br/][br/]
       Show #12, [Matt Kelly’s Basement](https://www.dischord.com/fugazi_live_series/east-lansing-mi-12088) in East Lansing, Michigan. Cost: $3, Attendance: Unknown.
     [/i]
-    These are examples of the venues that Fugazi worked with to produce low cost, all-ages shows throughout the late 80s.
+    These are examples of the venues that Fu-ska-zi worked with to produce low cost, all-ages shows throughout the late 80s.
   [/Step]
   [Step]
     [div style:`{height:'30vh'}`/]
