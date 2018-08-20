@@ -1,7 +1,11 @@
-[meta title:"Fugazi Idyll" description:"Short description of your project" /]
+[meta
+  title:"The D-I-Y Data of Fugazi"
+  description:"Fugazi had a profound impact on the music industry. This interactive looks at the meticulous records that Fugazi kept during their 15 years of tours."
+  shareImageUrl:"https://mathisonian.github.io/diy-data-fugazi/static/images/share.png"
+  shareImageWidth:"1279"
+  shareImageHeight:"702" /]
 
-[data name:"tourDates" source:"fugazi.csv" /]
-
+[data name:"tourDates" source:"fugazi-small.csv" /]
 
 [var name:"playVideo" value:false /]
 [var name:"playAudio" value:true /]
@@ -25,56 +29,6 @@
 [var name:"stepperIndex" value:0 /]
 [var name:"firstStepperState" value:` null ` /]
 
-[var name:"markColor" value:"#000" /]
-
-[derived name:"vegaTheme" value:`{  group: {
-    fill: '#e5e5e5',
-  },
-
-  arc: { fill: markColor },
-  area: { fill: markColor },
-  line: { stroke: markColor },
-  path: { stroke: markColor },
-  rect: { fill: markColor },
-  shape: { stroke: markColor },
-  symbol: { fill: markColor, size: 40 },
-
-  axis: {
-    domain: false,
-    grid: true,
-    gridColor: '#FFFFFF',
-    gridOpacity: 1,
-    labelColor: '#7F7F7F',
-    labelPadding: 4,
-    tickColor: '#7F7F7F',
-    tickSize: 5.67,
-    titleFontSize: 16,
-    titleFontWeight: 'normal',
-  },
-
-  legend: {
-    labelBaseline: 'middle',
-    labelFontSize: 11,
-    symbolSize: 40,
-  },
-
-  range: {
-    category: [
-      '#000000',
-      '#7F7F7F',
-      '#1A1A1A',
-      '#999999',
-      '#333333',
-      '#B0B0B0',
-      '#4D4D4D',
-      '#C9C9C9',
-      '#666666',
-      '#DCDCDC',
-    ],
-  },
-}` /]
-
-
 [derived name:"stepperState" value:`['hero', 'hero', 'map','map', 'map', 'map', 'drums'][stepperIndex]` /]
 
 [var name:"userFocus" value:` null ` /]
@@ -83,15 +37,16 @@
 [derived name:"stepFocus" value:`[null, 'all', 'all', 'north-america', 'north-america', 'europe', null][stepperIndex]` /]
 
 
-// [img src:"static/images/hero.jpg" fullWidth:true style:`{ minHeight: '100vh', minWidth: '100%', height:'auto' }` /]
-
-
 [var name:"isLoaded" value:false /]
 [var name:"started" value:false /]
 [var name:"showScroll" value:false /]
 [var name:"showHero" value:true /]
 [var name:"hideVideo" value:false /]
-// [ScrollLock locked:` !showScroll ` /]
+
+[var name:"isMobile" value:false /]
+
+[MobileWatch isMobile:isMobile started:started showScroll:showScroll /]
+[ScrollLock locked:` !isMobile && !showScroll ` /]
 
 [Scroller]
   [Graphic]
@@ -108,7 +63,12 @@
     }` ]
 
       // [Youtube play:`videoStep >= 1 && mapStep < 2` id:"k81wTUT7x4Y" /]
-      [Youtube onReady:`videoReady = true ` play:started audio:playAudio id:"k81wTUT7x4Y" /]
+      [Conditional if:isMobile null:true]
+        [img style:`{width: "100vw", height:'auto', maxHeight: 'none'}` src:"static/images/record.png" /]
+      [/Conditional]
+      [Conditional if:`!isMobile `]
+        [Youtube onReady:`videoReady = true ` play:started audio:playAudio id:"k81wTUT7x4Y" /]
+      [/Conditional]
     [/div]
   [/Graphic]
   [Step]
@@ -117,25 +77,29 @@
       author:"Matthew Conlen"
       authorLink:"https://twitter.com/mathisonian" /]
 
-    [Conditional if:`videoReady `]
+    [Conditional if:`videoReady && !isMobile `]
     [div style:`{textAlign: 'center'}`]
       [Conditional if:`!started ` ]
-        [Button onClick:`started = true; setTimeout(() => { showScroll = true; }, 4500); /*setTimeout(() => { hideVideo = true}, 25000); */ `]Click to start[/Button]
+        [Button className:"start" onClick:`started = true; setTimeout(() => { showScroll = true; }, 4500); /*setTimeout(() => { hideVideo = true}, 25000); */ `]Click to start[/Button]
       [/Conditional]
       [Conditional if:`started && !showScroll ` ]
-        [Button]loading[/Button]
+        [Button className:"start"]loading...[/Button]
       [/Conditional]
       [Conditional if:`showScroll ` ]
-        [Button]Scroll to continue[/Button]
+        [Button className:"start"]Scroll to continue[/Button]
       [/Conditional]
     [/div]
     [/Conditional]
   [/Step]
   [Step]
-    Fugazi emerged from the Washington D.C. hardcore scene in the late 1980s. They had a profound impact on the music industry without ever joining a major label or breaking into the _Billboard_ "Top 100".
+    Fugazi emerged from the [Washington D.C. hardcore scene](https://en.wikipedia.org/wiki/Washington,_D.C._hardcore) in the late 1980s. They had a profound impact on the music industry without ever joining a major label or breaking into _Billboard_'s
+    Hot 100.
 
 
-    Musically, Fugazi produced a seminal post-hardcore sound, wielding complex rhythms and discordant noise to arrive at blissful melodic resolutions.
+    Musically, Fugazi produced what would come to be known as a seminal post-hardcore sound.
+    Dissonant guitars, complex rhythms, and dueling vocals combine in unorthodox song structures. Harsh tension breaks into blissful, melodic resolution.
+    [br/][br/]
+    Some listeners find the results off-putting, but Fugazi garnered a loyal following. They're respected by critics and report millions of records sold.
   [/Step]
 [/Scroller]
 
@@ -159,28 +123,38 @@
     [/div]
   [/Graphic]
   [Step]
-      Despite being instrumental to the establishment of a new genre of music, Fugazi might be better known for their DIY work ethic and strong adherence to principles while navigating the music industry.
+      Despite establishing the foundations of a new subgenre of punk music, Fugazi may be better known for their [Do It Yourself](https://en.wikipedia.org/wiki/DIY_ethic#Punk_culture) mentality and adherence to ethical business practice while navigating the music industry.
 
-      The Washington Post wrote of the band in 1993, “There are three facts about Fugazi you must know: It only plays shows where age IDs are not required. It charges $5 admission to its shows, always. It will never, ever sign with a major record label.”
+      The _Washington Post_ [wrote of the band](https://www.washingtonpost.com/archive/lifestyle/style/1993/08/01/punk-lives-washingtons-fugazi-claims-its-just-a-band-so-why-do-so-many-kids-think-its-god/6c56fef5-780a-4a6e-8411-8c6b407e1eed/) in 1993, “There are three facts about Fugazi you must know: It only plays shows where age IDs are not required. It charges $5 admission to its shows, always. It will never, ever sign with a major record label.”
   [/Step]
   [Step]
-    While the tickets to the shows eventually got more expensive (there are reports of prices climbing to $10), they were committed to staying creatively independent.
+    Even after ticket prices crept up to a reported $10, Fugazi remained committed to creative independence.
+    For the duration of their career they stayed on [Dischord Records](https://dischord.com/), the label that Fugazi's Ian MacKaye had co-founded in 1980 with Jeff Nelson, his bandmate in [Minor Threat](https://en.wikipedia.org/wiki/Minor_Threat).
     [br/][br/]
-    For the duration of their career they stayed with Dischord Records, the label that Fugazi co-frontman Ian Mackaye had co-founded in 1980 with Jeff Nelson, the drummer of Minor Threat.
+    In 2003 the _Los Angeles Times_ [wrote](http://articles.latimes.com/2003/may/07/entertainment/et-kot7), “Ian MacKaye did not invent punk rock. But it's quite possible that he has done more than any other artist in America to advance its cause, shape its ethics and define its aesthetic over the last 23 years.”
 
-    The Los Angeles Times wrote  “Ian MacKaye did not invent punk rock. But it's quite possible that he has done more than any other artist in America to advance its cause, shape its ethics and define its aesthetic over the last 23 years.”
+
+    Fugazi's lyrics preach messages of [anti-consumerism](https://genius.com/Fugazi-merchandise-lyrics), [feminism](https://genius.com/Fugazi-suggestion-lyrics), and [social justice](https://genius.com/Fugazi-cashout-lyrics), and the band lived accordingly. During [a 1988 performance](https://www.dischord.com/fugazi_live_series/washington-dc-usa-122988) of the song "Suggestion," MacKaye can be heard saying:
+    [br/]
+    [i]
+    I read in the paper the other day about some young men, some 'boys' who were beating up gay men in a park.[br/][br/] Let me tell you now, I don't give a fuck what you are, but you do not beat up people for being gay; you do not beat up people for being black; you do not beat up people for being women; you do not beat up people period.
+    [/i]
+    The band is on an indefinite hiatus, but the message remains relevant. In 2015 Noisey [published an op-ed](https://noisey.vice.com/en_us/article/rnwbww/fugazi-politics) titled, "Why Fugazi's Politics Are as Frighteningly Relevant Today as They Were in 1988."
   [/Step]
 [/Scroller]
 
 
 [var name:"tourNames" value:`[]` /]
 [var name:"mapStep" value:0 /]
-[derived name:"focus" value:`[null, 'east-coast','east-coast','east-coast','east-coast', 'europe','europe','europe', 'europe','australia','australia', userFocus, userFocus][mapStep] ` /]
-[derived name:"tour" value:`[null, '1987 Fall/Winter Regional Dates','1987 Fall/Winter Regional Dates','1987 Fall/Winter Regional Dates','1987 Fall/Winter Regional Dates', '1988 Fall European Tour','1988 Fall European Tour','1988 Fall European Tour','1988 Fall European Tour', userTour, userTour, userTour, userTour][mapStep] ` /]
+
+[derived name:"focus" value:`[null, null,'east-coast','east-coast','east-coast', 'europe','europe','europe', null, userFocus, userFocus, null, null][mapStep] ` /]
+
+[derived name:"tour" value:`[null, null,'1987 Fall/Winter Regional Dates','1987 Fall/Winter Regional Dates','1987 Fall/Winter Regional Dates', '1988 Fall European Tour','1988 Fall European Tour','1988 Fall European Tour', null, userTour, userTour, null, null][mapStep] ` /]
 
 [Scroller currentStep:mapStep]
   [Graphic]
       [TourMap
+        isMobile:isMobile
         tourNames:tourNames
         isLoaded:isLoaded
         data:tourDates
@@ -191,22 +165,27 @@
         focus:focus /]
   [/Graphic]
 
-
   [Step]
+    From 1987 to 2002 Fugazi played [Display value:showCount format:"d" /] shows, visiting every state in the U.S., in addition to touring in South America, Europe, Australia, and Asia.
 
-    From 1987 to 2002 the band played [Display value:showCount format:"d" /] shows, visiting every state in the U.S., in addition to touring in South America, Europe, Australia, and Asia.
-
-    This works out to an average of
-    [Display value:`Object.keys(showsPerYear).reduce((memo, y) => memo + showsPerYear[y], 0) / Object.keys(showsPerYear).length;` format:"d" /] shows a year over the [Display value:`2002 - 1987 ` format:"d"/] year period.
-    And they documented nearly every single one of them.
+    That's an average of
+    [Display value:`Object.keys(showsPerYear).reduce((memo, y) => memo + showsPerYear[y], 0) / Object.keys(showsPerYear).length;` format:"d" /] shows a year over the [Display value:`2002 - 1987 ` format:"d"/] year period,
+    and nearly every single one was documented. The map shows all of Fugazi's known shows, colored by the
+    decade in which they occurred ([span style:`{color:'rgb(125, 152, 161)'}`]80s[/span], [span style:`{color:'rgb(213, 69, 60)'}`]90s[/span], [span style:`{color:'rgb(138, 234, 146)'}`]00s[/span]).
   [/Step]
+
   [Step]
+    [div style:`{height:'30vh'}`/]
   [/Step]
+
   [Step]
+    [div style:`{height:'30vh'}`/]
   [/Step]
 
   [Step]
     Fugazi's first tour was in the fall of 1987, up and down the east coast, from Connecticut to North Carolina.
+
+
     [i]
       Show #2, [St. Stephen's Church Cafeteria](https://www.dischord.com/fugazi_live_series/washington-dc-usa-92687) in Washington D.C.. Cost: $5, Attendance: 200.
       [br/][br/]
@@ -214,71 +193,77 @@
       [br/][br/]
       Show #12, [Matt Kelly’s Basement](https://www.dischord.com/fugazi_live_series/east-lansing-mi-12088) in East Lansing, Michigan. Cost: $3, Attendance: Unknown.
     [/i]
-    Here are examples of the low cost, all-ages shows Fugazi played in the 80s. You will not find these venues on Ticketmaster.
+    These are examples of the venues that Fugazi worked with to produce low cost, all-ages shows throughout the late 80s.
   [/Step]
   [Step]
+    [div style:`{height:'30vh'}`/]
   [/Step]
   [Step]
+    [div style:`{height:'30vh'}`/]
   [/Step]
   [Step]
-    [p style:`{margin: 0}`]Their first International tour was in the Fall of 1988, where the band played across much of the continent.[/p]
+    The first international tour was in the fall of 1988, when the band embarked on a 39 show tour spanning 13 countries.
+    [br/][br/]
+// Netherlands
+// Belgium
+// Germany
+// Denmark
+// Norway
+// Switzerland
+// Austria
+// Yugoslavia
+// Italy
+// France
+// England
+// Wales
+// Ireland
+    During 15 years of touring Fugazi brought their unique brand of DIY punk to 33 countries across five continents.
   [/Step]
   [Step]
+    [div style:`{height:'30vh'}`/]
   [/Step]
   [Step]
+    [div style:`{height:'30vh'}`/]
   [/Step]
   [Step]
-  [/Step]
-  [Step]
+    [var name:"showControls" value:false /]
+      [Conditional if:`!isMobile && !showControls `]
+      Use the controls to explore specific tours and regions. Scroll on when you are ready to continue.[br/][br/][Button onClick:`showControls = true `] Show Controls [/Button]
+
+      [/Conditional]
+      [Conditional if:isMobile ]
+        [p]View this page on a laptop or desktop computer to explore all of the data.[/p]
+      [/Conditional]
   [/Step]
 
   [Step]
-    ## Select a location:
-    [Button onClick:` userFocus = 'north-america' `]
-      North America
-    [/Button]
-    [Button onClick:` userFocus = 'europe' `]
-      Europe
-    [/Button]
-    [Button onClick:` userFocus = 'australia' `]
-      Australia
-    [/Button]
-    [Button onClick:` userFocus = 'south-america' `]
-      South America
-    [/Button]
-    [Button onClick:` userFocus = null `]
-      World
-    [/Button]
-    ## Select a decade:
-    [Button onClick:` selectedDecade = '198' `]
-      1980's
-    [/Button]
-    [Button onClick:` selectedDecade = '199' `]
-      1990's
-    [/Button]
-    [Button onClick:` selectedDecade = '200' `]
-      2000's
-    [/Button]
-    [Button onClick:` selectedDecade = null `]
-      All
-    [/Button]
-    ## Select a Tour:
-    [div style:`{textAlign: 'center'}`]
-      [Select value:userTour options:` [''].concat(tourNames) ` /]
-    [/div]
   [/Step]
-
+  [Step]
+  [/Step]
 
   [Step]
     // This commitment to independence and accessibility permeated all aspects of Fugazi.
-    The Fugazi Live Series provides information about the date and location of, as far as I can tell, every single show that Fugazi ever played.
+    The [Fugazi Live Series](https://www.dischord.com/fugazi_live_series/) provides information about — as far as I can tell — every single show that Fugazi ever played.
 
-    The band offers an audio download for those shows that have a quality audio recording. Theres over ZZZ of these recordings, each available for, of course, a $5 suggested donation.
+    The band offers an audio download for those shows that have a quality audio recording. There are over 700 of these recordings, each available for a $5 suggested donation.
+  [/Step]
+  [Step]
+    [i]Credits.[/i]
+    [br/][br/]
+    videos by raoulduke881 and mirhaba. [source](https://www.youtube.com/playlist?list=PLFC0Qi1EL6llDASsLCPoToruYR9OD-09s)
+    [br/]
+    photograph by Ted Drake. [source](https://www.flickr.com/photos/draket/28699049338/)
+    [br/]
+    webpage created using [Idyll](https://idyll-lang.org). [source](https://github.com/mathisonian/diy-data-fugazi)
+    [br/][br/]
+    thanks to David Hill for providing the dataset. this work is not affiliated with Fugazi or Dischord Records in any way. to learn more check out the documentary [Instrument](https://www.dischord.com/release/080/instrument)
+    [br/][br/]
+    updated August 18, 2018
   [/Step]
 [/Scroller]
 
 [div style:`{
-  // display: started ? 'auto' : 'none',
+  display: isMobile ? 'none' : 'auto',
   position: 'fixed',
   top: 30,
   fontSize: 10,
@@ -295,156 +280,70 @@
   [Display value:`playAudio ? 'Audio on' : 'Audio off' ` /]
 [/div]
 
+[Conditional if:`showControls && mapStep > 7 && mapStep < 10`]
+  [div className:"controls" style:`{
+    display: 'auto',
+    position: 'fixed',
+    bottom: 30,
+    fontSize: 10,
+    left: 30,
+    padding: '20px 10px',
+    textTransform: 'uppercase',
+    width: 300,
+    background:'rgba(0, 0, 0, 0.7)',
+    textAlign: 'center',
+    // borderRadius: 20,
+    color: 'white',
+    border: 'solid 3px black',
 
-// [Scroller currentState:firstStepperState ]
-//   [Step]
-//     [Header
-//       title:"The DIY Data of Fugazi"
-//       author:"Matthew Conlen"
-//       authorLink:"https://twitter.com/mathisonian" /]
-
-
-//     [Conditional if:`!isLoaded ` ]
-//       [div style:`{textAlign: 'left', width: '100%'}`]
-//         Loading...
-//       [/div]
-//     [/Conditional]
-//     [Conditional if:`isLoaded ` ]
-
-//     // Fugazi played [Display value:showCount format:"d" /] shows
-//     // from 1987 to 2002.    Fugazi played [Display value:showCount format:"d" /] shows
-//     // from 1987 to 2002.    Fugazi played [Display value:showCount format:"d" /] shows
-//     // from 1987 to 2002.
-
-//     // They played an average of [Display value:`Object.keys(showsPerYear).reduce((memo, y) => memo + showsPerYear[y], 0) / Object.keys(showsPerYear).length;` format:"d" /]  shows over that
-//     // [Display value:`Object.keys(showsPerYear).length` format:"d" /] year period. They played an average of [Display value:`Object.keys(showsPerYear).reduce((memo, y) => memo + showsPerYear[y], 0) / Object.keys(showsPerYear).length;` format:"d" /]  shows over that
-//     // [Display value:`Object.keys(showsPerYear).length` format:"d" /] year period.
-
-//     Fugazi, a band that emerged from the Washington D.C. hardcore scene in the late 1980s, had a profound impact on the music industry without ever joining a major label or breaking into Billboard's Top 100. Musically they developed a seminal post-hardcore sound, utilizing complex rhythms and song structures, building harsh discordant noise to a blissful melodic resolution for those who could stand to listen.
-
-//     Even though they were instrumental in establishing a new genre, they may be better known for their DIY work ethic and strong adherence to principles while navigating the music industry. The Washington Post wrote of the band in 1993, “There are three facts about Fugazi you must know: It only plays shows where age IDs are not required. It charges $5 admission to its shows, always. It will never, ever sign with a major record label.”
-
-//     While the tickets to the shows eventually got more expensive (up to $10), they were committed to staying creatively independent. For the duration of their career they stayed with Dischord Records, the label that Fugazi co-frontman Ian Mackaye had co-founded in 1980 with Jeff Nelson, the drummer of Minor Threat.
-
-//     The Los Angeles Times wrote  “Ian MacKaye did not invent punk rock. But it's quite possible that he has done more than any other artist in America to advance its cause, shape its ethics and define its aesthetic over the last 23 years.”
-
-//     This commitment to independence and accessibility permeated all aspects of Fugazi. From 1987 to 2002 the band played [Display value:showCount format:"d" /] shows, visiting every state in the U.S., in addition to touring in South America, Europe, and Asia. This works out to an average of
-//     [Display value:`Object.keys(showsPerYear).reduce((memo, y) => memo + showsPerYear[y], 0) / Object.keys(showsPerYear).length;` format:"d" /] shows a year over the [Display value:`2002 - 1987 `/] year period.
-
-//     And they documented nearly every single one of them.
-
-//     The Fugazi Live Series provides information about the date and location of, as far as I can tell, every single show that Fugazi ever played. The band offers an audio download for those shows that have a quality audio recording. Theres over ZZZ of these recordings, each available for, of course, a $5 suggested donation.
+    // zIndex: 100,
+    // cursor:'pointer'
+  }`]
 
 
-//     [/Conditional]
+    ## Zoom to location.
+    [Button className:`userFocus === 'asia' ? 'selected' : '' ` onClick:` userFocus = 'asia' `]
+      Asia
+    [/Button]
+    [Button className:`userFocus === 'australia' ? 'selected' : '' ` onClick:` userFocus = 'australia' `]
+      Australia
+    [/Button]
+    [Button className:`userFocus === 'europe' ? 'selected' : '' ` onClick:` userFocus = 'europe' `]
+      Europe
+    [/Button]
+    [Button className:`userFocus === 'north-america' ? 'selected' : '' ` onClick:` userFocus = 'north-america' `]
+      North America
+    [/Button]
+    [Button className:`userFocus === 'south-america' ? 'selected' : '' ` onClick:` userFocus = 'south-america' `]
+      South America
+    [/Button]
+    [Button className:`userFocus === null ? 'selected' : '' ` onClick:` userFocus = null `]
+      World
+    [/Button]
+    ## Filter by decade.
+    [Button className:`selectedDecade === '198' ? 'selected' : '' ` onClick:` selectedDecade = '198' `]
+      1980's
+    [/Button]
+    [Button className:`selectedDecade === '199' ? 'selected' : '' ` onClick:` selectedDecade = '199' `]
+      1990's
+    [/Button]
+    [Button className:`selectedDecade === '200' ? 'selected' : '' ` onClick:` selectedDecade = '200' `]
+      2000's
+    [/Button]
+    [Button className:`selectedDecade === null ? 'selected' : '' ` onClick:` selectedDecade = null `]
+      All
+    [/Button]
+    ## Filter by tour.
+    [div style:`{textAlign: 'center'}`]
+      [Select value:userTour options:` [''].concat(tourNames.sort()) ` /]
 
-//   [/Step]
-//   [Step  ]
+      [Conditional if:`userTour !== ''`]
+        [Button onClick:`userTour = '' `]Clear Tour[/Button]
+      [/Conditional]
+    [/div]
+  [/div]
 
-//     [div style:` { padding: 20, background: 'black', margin: '0 auto', textAlign: 'center' } `]
-//     [VL data:tourDates spec:`{
-//        "mark": "bar",
-//         "encoding": {
-//           "x": {"field": "year", "type": "temporal", "axis": {"format": "%Y"}},
-//           "y": {"aggregate": "count", "field": "year", "type": "quantitative"}
-//         },
-//         "config": vegaTheme
-//     }` /]
-
-//     [/div]
-
-//   [/Step]
-
-// [/Scroller]
-
-
-// [Scroller currentStep:stepperIndex]
-//   [Graphic]
-//       [TourMap
-//         isLoaded:isLoaded
-//         data:tourDates
-//         selectedDecade:selectedDecade
-//         stepFocus:stepFocus
-//         stepperIndex:stepperIndex
-//         focus:focus /]
-//   [/Graphic]
-
-
-//   [Step]
-//     Fugazi played [Display value:showCount format:"d" /] shows
-//     from 1987 to 2002.
-
-
-//     They played an average of [Display value:`Object.keys(showsPerYear).reduce((memo, y) => memo + showsPerYear[y], 0) / Object.keys(showsPerYear).length;` format:"d" /]  shows over that
-//     [Display value:`Object.keys(showsPerYear).length` format:"d" /] year period.
-
-//   [/Step]
-//   [Step  ]
-
-//     [VL data:tourDates spec:`{
-//        "mark": "bar",
-//         "encoding": {
-//           "x": {"field": "year", "type": "temporal", "axis": {"format": "%Y"}},
-//           "y": {"aggregate": "count", "field": "year", "type": "quantitative"}
-//         },
-//         "config": vegaTheme
-//     }` /]
-
-//   [/Step]
-
-//     [Step ]
-//         # Select a decade:
-
-//     [Button onClick:` selectedDecade = '198' `]
-//       1980's
-//     [/Button]
-//     [Button onClick:` selectedDecade = '199' `]
-//       1990's
-//     [/Button]
-//     [Button onClick:` selectedDecade = '200' `]
-//       2000's
-//     [/Button]
-//     [Button onClick:` selectedDecade = null `]
-//       All
-//     [/Button]
-//   [/Step]
-
-//   [Step]
-//     # Select a location:
-
-//     [Button onClick:` focus = 'north-america' `]
-//       North America
-//     [/Button]
-//     [Button onClick:` focus = 'europe' `]
-//       Europe
-//     [/Button]
-//     [Button onClick:` focus = null `]
-//       All
-//     [/Button]
-//   [/Step]
-
-//   [Step]
-//     [iframe
-//       width:560
-//       height:315
-//       src:"https://www.youtube.com/embed/gzC0RNkBXM0"
-//       allow:"autoplay; encrypted-media"
-//       frameBorder:0
-//       allowFullScreen:true /]
-//   [/Step]
+[/Conditional]
 
 
-// [/Scroller]
-
-
-// [div fullWidth:true style:`{
-//   width: '100vw',
-//   height: '100vh',
-//   background: 'url(static/images/drums.jpg) no-repeat center center fixed',
-//   animation: 'kenburns 60s infinite'
-// }` /]
-
-// [fixed]
-//   [display value:stepperIndex /]
-//   [display value:urlResults /]
-// [/fixed]
+[analytics google:"UA-108267630-1" tag:"fugazi-diy-data" /]

@@ -1,0 +1,1046 @@
+x,y,date,city,country,venue,tour,year
+-1.5479,53.7965,1990-09-12 00:00:00+00,Leeds,England,Irish Centre,1990 Fall European Tour,1990
+139.691699,35.689495,1996-10-26 00:00:00+00,Tokyo,Japan,Guilty,1996 US/Japan/Hong Kong/Australia Tour,1996
+-117.1573,32.715299,1999-02-18 00:00:00+00,San Diego,USA,Soma,1999 West Coast USA Tour,1999
+-58.377201,-34.613198,1997-08-22 00:00:00+00,Buenos Aires,Argentina,Superclub,1997 Summer Brazil/South America Tour,1997
+138.598599,-34.928695,1993-11-11 00:00:00+00,Adelaide,Australia,Dom Polski Hall,1993 Japan/Australia/New Zealand Tour,1993
+138.598599,-34.928695,1996-11-12 00:00:00+00,Adelaide,Australia,Adelaide University,1996 US/Japan/Hong Kong/Australia Tour,1996
+138.598599,-34.928695,1991-10-22 00:00:00+00,Adelaide,Australia,Le Rox Hotel,1991 Australia/New Zealand/Japan Tour,1991
+143.849599,-37.566197,1997-06-19 00:00:00+00,Ballarat,Australia,Old YMCA,1997 Summer Australia/New Zealand Tour,1997
+153.028097,-27.467895,1991-11-02 00:00:00+00,Brisbane,Australia,Funkyard,1991 Australia/New Zealand/Japan Tour,1991
+153.028097,-27.467895,1993-11-27 00:00:00+00,Brisbane,Australia,Boulder Gallery,1993 Japan/Australia/New Zealand Tour,1993
+153.028097,-27.467895,1997-06-21 00:00:00+00,Brisbane,Australia,Roxy,1997 Summer Australia/New Zealand Tour,1997
+153.611896,-28.642001,1991-11-03 00:00:00+00,Byron Bay,Australia,Arts Factory,1991 Australia/New Zealand/Japan Tour,1991
+149.128097,-35.2835,1997-06-13 00:00:00+00,Canberra,Australia,Anu Bar,1997 Summer Australia/New Zealand Tour,1997
+149.128097,-35.2835,1993-11-17 00:00:00+00,Canberra,Australia,A.N.U. Bar,1993 Japan/Australia/New Zealand Tour,1993
+149.128097,-35.2835,1991-10-23 00:00:00+00,Canberra,Australia,Youth Cafe,1991 Australia/New Zealand/Japan Tour,1991
+151.116699,-33.883299,1991-10-19 00:00:00+00,Croydon,Australia,Croydon Hull,1991 Australia/New Zealand/Japan Tour,1991
+151.116699,-33.883299,1993-11-12 00:00:00+00,Croydon,Australia,EV's,1993 Japan/Australia/New Zealand Tour,1993
+130.841897,-12.461097,1997-06-25 00:00:00+00,Darwin,Australia,Time Tavern,1997 Summer Australia/New Zealand Tour,1997
+144.360698,-38.147097,1991-10-17 00:00:00+00,Geelong,Australia,Ukranian Town Hall,1991 Australia/New Zealand/Japan Tour,1991
+144.360698,-38.147097,1997-06-20 00:00:00+00,Geelong,Australia,Courthouse,1997 Summer Australia/New Zealand Tour,1997
+153.4309,-28.000299,1991-11-01 00:00:00+00,Gold Coast,Australia,Playroom,1991 Australia/New Zealand/Japan Tour,1991
+147.329399,-42.879398,1996-11-13 00:00:00+00,Hobart,Australia,Sapphire Ballroom,1996 US/Japan/Hong Kong/Australia Tour,1996
+147.329399,-42.879398,1993-12-03 00:00:00+00,Hobart,Australia,Hellenic Hall,1993 Japan/Australia/New Zealand Tour,1993
+147.1347,-41.438798,1993-12-04 00:00:00+00,Launceston,Australia,Windmill Hill War Memorial,1993 Japan/Australia/New Zealand Tour,1993
+153.277298,-28.813496,1997-06-23 00:00:00+00,Lismore,Australia,Lismore Uni,1997 Summer Australia/New Zealand Tour,1997
+153.277298,-28.813496,1993-11-26 00:00:00+00,Lismore,Australia,Italo Club,1993 Japan/Australia/New Zealand Tour,1993
+151.288297,-33.797997,1991-10-26 00:00:00+00,Manly,Australia,Manly Youth Center,1991 Australia/New Zealand/Japan Tour,1991
+151.288297,-33.797997,1993-11-19 00:00:00+00,Manly,Australia,Manly High School,1993 Japan/Australia/New Zealand Tour,1993
+144.963296,-37.813995,1991-10-18 00:00:00+00,Melbourne,Australia,Melbourne Uni,1991 Australia/New Zealand/Japan Tour,1991
+144.963296,-37.813995,1991-10-20 00:00:00+00,Melbourne,Australia,Melbourne Uni,1991 Australia/New Zealand/Japan Tour,1991
+144.963296,-37.813995,1997-06-17 00:00:00+00,Melbourne,Australia,Lava Lounge,1997 Summer Australia/New Zealand Tour,1997
+144.963296,-37.813995,1993-11-14 00:00:00+00,Melbourne,Australia,Collingwood Town Hall,1993 Japan/Australia/New Zealand Tour,1993
+144.963296,-37.813995,1993-11-13 00:00:00+00,Melbourne,Australia,Wall St.,1993 Japan/Australia/New Zealand Tour,1993
+144.963296,-37.813995,1997-06-18 00:00:00+00,Melbourne,Australia,Lava Lounge,1997 Summer Australia/New Zealand Tour,1997
+151.776496,-32.927197,1993-11-24 00:00:00+00,Newcastle,Australia,Morrow Park Bowls Club,1993 Japan/Australia/New Zealand Tour,1993
+151.776496,-32.927197,1996-11-16 00:00:00+00,Newcastle,Australia,Cambridge Hotel,1996 US/Japan/Hong Kong/Australia Tour,1996
+115.861399,-31.952196,1996-11-10 00:00:00+00,Perth,Australia,Univ. of West Australia,1996 US/Japan/Hong Kong/Australia Tour,1996
+115.861399,-31.952196,1993-11-10 00:00:00+00,Perth,Australia,Club O,1993 Japan/Australia/New Zealand Tour,1993
+151.207297,-33.8679,1993-12-01 00:00:00+00,Sydney,Australia,Uni Manning Bar,1993 Japan/Australia/New Zealand Tour,1993
+151.207297,-33.8679,1991-10-25 00:00:00+00,Sydney,Australia,Sydney Uni,1991 Australia/New Zealand/Japan Tour,1991
+151.207297,-33.8679,1996-11-15 00:00:00+00,Sydney,Australia,Sydney University,1996 US/Japan/Hong Kong/Australia Tour,1996
+151.207297,-33.8679,1997-06-15 00:00:00+00,Sydney,Australia,Metro,1997 Summer Australia/New Zealand Tour,1997
+151.207297,-33.8679,1993-11-20 00:00:00+00,Sydney,Australia,Sydney Town hall,1993 Japan/Australia/New Zealand Tour,1993
+151.207297,-33.8679,1997-06-14 00:00:00+00,Sydney,Australia,Manly Youth Center,1997 Summer Australia/New Zealand Tour,1997
+151.207297,-33.8679,1991-10-27 00:00:00+00,Sydney,Australia,Burland Centre,1991 Australia/New Zealand/Japan Tour,1991
+150.893498,-34.423997,1993-11-18 00:00:00+00,Wollongong,Australia,Youth Centre,1993 Japan/Australia/New Zealand Tour,1993
+9.733098,47.416696,1990-10-18 00:00:00+00,Dornbirn,Austria,Stadt Halle,1990 Fall European Tour,1990
+9.6831,47.366698,1992-06-17 00:00:00+00,Hohenems,Austria,Transmitter Festival,1992 Spring European Tour,1992
+14.286097,48.306399,1988-11-10 00:00:00+00,Linz,Austria,Kapu,1988 Fall European Tour,1988
+16.372096,48.208496,1999-09-26 00:00:00+00,Vienna,Austria,Flexx,1999 Fall European Tour,1999
+16.372096,48.208496,1990-10-20 00:00:00+00,Vienna,Austria,Arena,1990 Fall European Tour,1990
+16.372096,48.208496,1995-06-24 00:00:00+00,Vienna,Austria,Arena,1995 Spring/Summer European Tour,1995
+16.372096,48.208496,1992-06-14 00:00:00+00,Vienna,Austria,Arena,1992 Spring European Tour,1992
+14.033297,48.166698,1990-10-19 00:00:00+00,Wels,Austria,Schlachthof,1990 Fall European Tour,1990
+14.033297,48.166698,1995-06-25 00:00:00+00,Wels,Austria,Schlachthof,1995 Spring/Summer European Tour,1995
+14.033297,48.166698,1992-06-15 00:00:00+00,Wels,Austria,Schlachthof,1992 Spring European Tour,1992
+4.035499,50.935999,1990-09-23 00:00:00+00,Aalst,Belgium,Netwerk,1990 Fall European Tour,1990
+4.348796,50.850496,1999-10-15 00:00:00+00,Brussels,Belgium,Ancienne Belgique,1999 Fall European Tour,1999
+2.863796,51.0325,1992-05-26 00:00:00+00,Diksmuiden,Belgium,Boter Halle,1992 Spring European Tour,1992
+4.989199,51.1656,1990-09-22 00:00:00+00,Geel,Belgium,De Bogaerd,1990 Fall European Tour,1990
+3.716698,51.049995,1995-05-19 00:00:00+00,Gent,Belgium,Zaal Vooruit,1995 Spring/Summer European Tour,1995
+3.716698,51.049995,1988-10-16 00:00:00+00,Gent,Belgium,Democrazy,1988 Fall European Tour,1988
+4.700898,50.879598,1995-05-18 00:00:00+00,Leuven,Belgium,Lido,1995 Spring/Summer European Tour,1995
+5.464797,50.780498,1992-05-22 00:00:00+00,Tongeren,Belgium,Concordia,1992 Spring European Tour,1992
+-43.937799,-19.9208,1997-08-16 00:00:00+00,Belo Horizonte,Brazil,Trash,1997 Summer Brazil/South America Tour,1997
+-43.937799,-19.9208,1994-08-15 00:00:00+00,Belo Horizonte,Brazil,Belo Horizonte Independent Music Festival,1994 Fall Brazil Tour,1994
+-47.929698,-15.7797,1997-08-10 00:00:00+00,Brasilia,Brazil,Teatro Garagem Do Sesc,1997 Summer Brazil/South America Tour,1997
+-47.929698,-15.7797,1997-08-09 00:00:00+00,Brasilia,Brazil,Teatro Garagem Do Sesc,1997 Summer Brazil/South America Tour,1997
+-47.060796,-22.905597,1997-08-19 00:00:00+00,Campinas,Brazil,A.S.S.A.M.P.I.,1997 Summer Brazil/South America Tour,1997
+-49.273098,-25.427799,1994-08-26 00:00:00+00,Curitiba,Brazil,92 Graus,1994 Fall Brazil Tour,1994
+-49.273098,-25.427799,1997-08-14 00:00:00+00,Curitiba,Brazil,92 Graus,1997 Summer Brazil/South America Tour,1997
+-49.273098,-25.427799,1994-08-25 00:00:00+00,Curitiba,Brazil,92 Graus,1994 Fall Brazil Tour,1994
+-49.273098,-25.427799,1994-08-27 00:00:00+00,Curitiba,Brazil,92 Graus,1994 Fall Brazil Tour,1994
+-42.859398,-22.744401,1994-08-19 00:00:00+00,Itaborai,Brazil,Col. Leao XIII Hall,1994 Fall Brazil Tour,1994
+-48.845598,-26.304399,1997-08-15 00:00:00+00,Joinville,Brazil,Liga De Socierade,1997 Summer Brazil/South America Tour,1997
+-51.162797,-23.310301,1997-08-13 00:00:00+00,Londrina,Brazil,Kawale,1997 Summer Brazil/South America Tour,1997
+-47.649199,-22.725297,1997-08-05 00:00:00+00,Piracicaba,Brazil,Blue Galeria,1997 Summer Brazil/South America Tour,1997
+-43.207497,-22.902797,1994-08-18 00:00:00+00,Rio De Janeiro,Brazil,Circo Voador,1994 Fall Brazil Tour,1994
+-46.333601,-23.9608,1997-08-20 00:00:00+00,Santos,Brazil,Bar De Tres,1997 Summer Brazil/South America Tour,1997
+-46.636099,-23.547497,1994-08-20 00:00:00+00,Sao Paulo,Brazil,Aeroanta,1994 Fall Brazil Tour,1994
+-46.636099,-23.547497,1997-08-06 00:00:00+00,Sao Paulo,Brazil,Brodway,1997 Summer Brazil/South America Tour,1997
+-46.636099,-23.547497,1994-08-21 00:00:00+00,Sao Paulo,Brazil,Aeroanta,1994 Fall Brazil Tour,1994
+-40.337797,-20.319399,1997-08-07 00:00:00+00,Vitoria,Brazil,Camburi Clube,1997 Summer Brazil/South America Tour,1997
+-122.952601,49.266395,2001-07-07 00:00:00+00,Burnaby,Canada,Bill Copeland Arena,2001 Summer Mid-West/Canada Tour,2001
+-114.085299,51.050098,2001-07-03 00:00:00+00,Calgary,Canada,MacEwan Hall,2001 Summer Mid-West/Canada Tour,2001
+-114.085299,51.050098,1991-08-17 00:00:00+00,Calgary,Canada,MacEwan Hall,1991 Summer/Fall USA/Canada Tour,1991
+-113.468697,53.550095,2001-07-02 00:00:00+00,Edmonton,Canada,Polish Hall,2001 Summer Mid-West/Canada Tour,2001
+-66.665597,45.9454,1998-07-24 00:00:00+00,Fredericton,Canada,New Maryland Recreation Center,1998 Summer Canada/USA Tour,1998
+-80.249699,43.550096,1989-09-30 00:00:00+00,Guelph,Canada,Loft,1989 Canada/NE Tour,1989
+-80.249699,43.550096,1993-09-08 00:00:00+00,Guelph,Canada,Peter Clark Hall University of Guelph,1993 Fall USA/Canda Tour,1993
+-63.5724,44.645298,1998-07-25 00:00:00+00,Halifax,Canada,Olympic Bingo,1998 Summer Canada/USA Tour,1998
+-119.485696,49.883096,2001-07-05 00:00:00+00,Kelowna,Canada,Performance Centre,2001 Summer Mid-West/Canada Tour,2001
+-73.587801,45.508798,1998-07-21 00:00:00+00,Montreal,Canada,Spectrum,1998 Summer Canada/USA Tour,1998
+-73.587801,45.508798,1991-08-02 00:00:00+00,Montreal,Canada,Rialto Theatre,1991 Summer/Fall USA/Canada Tour,1991
+-73.587801,45.508798,1995-09-23 00:00:00+00,Montreal,Canada,Metropolis,1995 Fall USA/Canada Tour,1995
+-73.587801,45.508798,1993-09-12 00:00:00+00,Montreal,Canada,Metropolis,1993 Fall USA/Canda Tour,1993
+-75.698098,45.4112,1993-09-11 00:00:00+00,Ottawa,Canada,Carleton University Porter Hall,1993 Fall USA/Canda Tour,1993
+-75.698098,45.4112,1998-07-20 00:00:00+00,Ottawa,Canada,Barrymore's,1998 Summer Canada/USA Tour,1998
+-75.698098,45.4112,1991-08-03 00:00:00+00,Ottawa,Canada,Barrymore's,1991 Summer/Fall USA/Canada Tour,1991
+-75.698098,45.4112,1989-09-29 00:00:00+00,Ottawa,Canada,Glebe Community Center,1989 Canada/NE Tour,1989
+-75.698098,45.4112,1995-09-26 00:00:00+00,Ottawa,Canada,Carlton University Porter Hall,1995 Fall USA/Canada Tour,1995
+-71.2145,46.812301,1998-07-22 00:00:00+00,Quebec City,Canada,Centre De Losire,1998 Summer Canada/USA Tour,1998
+-71.2145,46.812301,1995-09-24 00:00:00+00,Quebec City,Canada,Cepec Limouli,1995 Fall USA/Canada Tour,1995
+-104.617797,50.450099,2001-06-30 00:00:00+00,Regina,Canada,University of Regina,2001 Summer Mid-West/Canada Tour,2001
+-104.617797,50.450099,1991-08-15 00:00:00+00,Regina,Canada,College West,1991 Summer/Fall USA/Canada Tour,1991
+-106.634497,52.116795,2001-07-01 00:00:00+00,Saskatoon,Canada,Sid's Garage,2001 Summer Mid-West/Canada Tour,2001
+-79.416299,43.700099,1991-08-04 00:00:00+00,Toronto,Canada,Opera House,1991 Summer/Fall USA/Canada Tour,1991
+-79.416299,43.700099,1995-09-27 00:00:00+00,Toronto,Canada,RPM Warehouse,1995 Fall USA/Canada Tour,1995
+-79.416299,43.700099,1998-07-19 00:00:00+00,Toronto,Canada,Phoenix Theater,1998 Summer Canada/USA Tour,1998
+-79.416299,43.700099,1993-09-10 00:00:00+00,Toronto,Canada,RPM Warehouse,1993 Fall USA/Canda Tour,1993
+-79.416299,43.700099,1993-09-09 00:00:00+00,Toronto,Canada,RPM Warehouse,1993 Fall USA/Canda Tour,1993
+-79.416299,43.700099,1989-10-01 00:00:00+00,Toronto,Canada,Rivoli Theater,1989 Canada/NE Tour,1989
+-123.119296,49.249698,1991-08-19 00:00:00+00,Vancouver,Canada,N. Van. Sports Arena Hockey Rink,1991 Summer/Fall USA/Canada Tour,1991
+-123.119296,49.249698,1993-05-07 00:00:00+00,Vancouver,Canada,Plaza of Nations,1993 Spring USA Tour,1993
+-123.3693,48.432897,2001-07-06 00:00:00+00,Victoria,Canada,Archie Browning Hockey Arena,2001 Summer Mid-West/Canada Tour,2001
+-97.146999,49.884396,1991-08-14 00:00:00+00,Winnipeg,Canada,Duncan Arena,1991 Summer/Fall USA/Canada Tour,1991
+-97.146999,49.884396,2001-06-29 00:00:00+00,Winnipeg,Canada,Le Rendez Vous,2001 Summer Mid-West/Canada Tour,2001
+-70.6483,-33.456902,1997-08-23 00:00:00+00,Santiago,Chile,Laberinto,1997 Summer Brazil/South America Tour,1997
+14.420797,50.088,1995-06-29 00:00:00+00,Prague,Czech Republic,Roxy,1995 Spring/Summer European Tour,1995
+14.420797,50.088,1999-09-23 00:00:00+00,Prague,Czech Republic,Lucerna,1999 Fall European Tour,1999
+14.420797,50.088,1992-06-13 00:00:00+00,Prague,Czech Republic,Roxy,1992 Spring European Tour,1992
+12.565496,55.675897,1988-10-22 00:00:00+00,Copenhagen,Denmark,Ungdomshuset,1988 Fall European Tour,1988
+12.565496,55.675897,1995-07-10 00:00:00+00,Copenhagen,Denmark,Ungdomshuset,1995 Spring/Summer European Tour,1995
+12.565496,55.675897,1992-07-04 00:00:00+00,Copenhagen,Denmark,Ungdomshuset,1992 Spring European Tour,1992
+12.565496,55.675897,1990-09-27 00:00:00+00,Copenhagen,Denmark,Ungdomshuset,1990 Fall European Tour,1990
+12.565496,55.675897,2000-10-07 00:00:00+00,Copenhagen,Denmark,Loppen,2000 Fall Northern European Tour,2000
+-1.8998,52.481399,1990-09-18 00:00:00+00,Birmingham,England,Goldwyns,1990 Fall European Tour,1990
+-1.8998,52.481399,1989-11-19 00:00:00+00,Birmingham,England,Edward's #8,1989 Fall European Tour,1989
+-1.8998,52.481399,2002-10-22 00:00:00+00,Birmingham,England,Sanctuary,2002 Fall UK/Ireland Tour,2002
+-1.7521,53.793896,1992-05-17 00:00:00+00,Bradford,England,Queen's Hall,1992 Spring European Tour,1992
+-0.139498,50.828399,2002-10-20 00:00:00+00,Brighton,England,Corn Exchange,2002 Fall UK/Ireland Tour,2002
+-0.139498,50.828399,1999-05-14 00:00:00+00,Brighton,England,Brighton Center,1999 Spring UK/Ireland Tour,1999
+-0.139498,50.828399,1995-05-06 00:00:00+00,Brighton,England,Sussex University Nelson Mandela Hall,1995 Spring/Summer European Tour,1995
+-0.139498,50.828399,1989-11-14 00:00:00+00,Brighton,England,Zap Club,1989 Fall European Tour,1989
+-2.596698,51.455196,2002-11-01 00:00:00+00,Bristol,England,Academy,2002 Fall UK/Ireland Tour,2002
+-2.596698,51.455196,1990-09-10 00:00:00+00,Bristol,England,Bierkellar,1990 Fall European Tour,1990
+-2.596698,51.455196,1989-11-22 00:00:00+00,Bristol,England,Bierkeller,1989 Fall European Tour,1989
+0.116704,52.199999,1992-05-06 00:00:00+00,Cambridge,England,Junction,1992 Spring European Tour,1992
+1.079896,51.278995,1988-12-02 00:00:00+00,Canterbury,England,Technical College,1988 Fall European Tour,1988
+1.079896,51.278995,1989-11-13 00:00:00+00,Canterbury,England,Arts College,1989 Fall European Tour,1989
+-3.527499,50.723594,1989-11-16 00:00:00+00,Exeter,England,Exeter University,1989 Fall European Tour,1989
+-3.527499,50.723594,2002-10-21 00:00:00+00,Exeter,England,University Lemon Grove,2002 Fall UK/Ireland Tour,2002
+1.128599,51.372999,1990-09-20 00:00:00+00,Herne Bay,England,King's Hall,1990 Fall European Tour,1990
+-1.5479,53.7965,1988-11-30 00:00:00+00,Leeds,England,Duchess of York,1988 Fall European Tour,1988
+-1.5479,53.7965,1989-11-20 00:00:00+00,Leeds,England,Leeds Polytechnic,1989 Fall European Tour,1989
+-1.5479,53.7965,2002-10-31 00:00:00+00,Leeds,England,Metropolitan University,2002 Fall UK/Ireland Tour,2002
+-1.5479,53.7965,1999-04-29 00:00:00+00,Leeds,England,Metro University,1999 Spring UK/Ireland Tour,1999
+-1.5479,53.7965,1995-05-15 00:00:00+00,Leeds,England,Metropolitan University,1995 Spring/Summer European Tour,1995
+-2.977897,53.410596,1990-09-11 00:00:00+00,Liverpool,England,Liverpool Polytechnic Canteen,1990 Fall European Tour,1990
+-2.977897,53.410596,1988-11-26 00:00:00+00,Liverpool,England,Planet X,1988 Fall European Tour,1988
+-2.977897,53.410596,1989-11-25 00:00:00+00,Liverpool,England,Bluecoat Chamber,1989 Fall European Tour,1989
+-0.1257,51.508497,1989-11-29 00:00:00+00,London,England,Boston Arms,1989 Fall European Tour,1989
+-0.1257,51.508497,1990-09-19 00:00:00+00,London,England,Kilburn National,1990 Fall European Tour,1990
+-0.1257,51.508497,1992-05-09 00:00:00+00,London,England,Brixton Academy,1992 Spring European Tour,1992
+-0.1257,51.508497,1988-11-24 00:00:00+00,London,England,Sir George Robey,1988 Fall European Tour,1988
+-0.1257,51.508497,1995-05-13 00:00:00+00,London,England,Brixton Academy,1995 Spring/Summer European Tour,1995
+-0.1257,51.508497,2002-11-04 00:00:00+00,London,England,Forum,2002 Fall UK/Ireland Tour,2002
+-0.1257,51.508497,2002-11-02 00:00:00+00,London,England,Forum,2002 Fall UK/Ireland Tour,2002
+-0.1257,51.508497,1988-12-05 00:00:00+00,London,England,Boston Arms,1988 Fall European Tour,1988
+-0.1257,51.508497,2002-11-03 00:00:00+00,London,England,Forum,2002 Fall UK/Ireland Tour,2002
+-0.1257,51.508497,1999-05-15 00:00:00+00,London,England,Rex,1999 Spring UK/Ireland Tour,1999
+-2.2374,53.480997,1999-05-12 00:00:00+00,Manchester,England,University Student Union,1999 Spring UK/Ireland Tour,1999
+-2.2374,53.480997,1992-05-14 00:00:00+00,Manchester,England,Irish Centre Ardri Hall,1992 Spring European Tour,1992
+-2.2374,53.480997,1989-11-28 00:00:00+00,Manchester,England,Boardwalk,1989 Fall European Tour,1989
+-2.2374,53.480997,2002-10-30 00:00:00+00,Manchester,England,Manchester University,2002 Fall UK/Ireland Tour,2002
+-2.2374,53.480997,1995-05-07 00:00:00+00,Manchester,England,Academy,1995 Spring/Summer European Tour,1995
+-5.889798,54.217994,1989-11-26 00:00:00+00,Newcastle,England,Riverside,1989 Fall European Tour,1989
+-5.889798,54.217994,1999-05-02 00:00:00+00,Newcastle,England,Riverside,1999 Spring UK/Ireland Tour,1999
+-5.889798,54.217994,1990-09-14 00:00:00+00,Newcastle,England,Riverside,1990 Fall European Tour,1990
+-5.889798,54.217994,1992-05-15 00:00:00+00,Newcastle,England,Riverside,1992 Spring European Tour,1992
+1.298297,52.627799,1992-05-07 00:00:00+00,Norwich,England,Waterfront,1992 Spring European Tour,1992
+-1.150497,52.9536,1999-05-13 00:00:00+00,Nottingham,England,Marcus Garvey Centre,1999 Spring UK/Ireland Tour,1999
+-1.150497,52.9536,1995-05-12 00:00:00+00,Nottingham,England,Trent University,1995 Spring/Summer European Tour,1995
+-1.150497,52.9536,2002-10-23 00:00:00+00,Nottingham,England,Rock City,2002 Fall UK/Ireland Tour,2002
+-1.150497,52.9536,1988-11-27 00:00:00+00,Nottingham,England,Underground Hic,1988 Fall European Tour,1988
+-1.150497,52.9536,1990-09-13 00:00:00+00,Nottingham,England,Marcus Garvey Centre,1990 Fall European Tour,1990
+-1.150497,52.9536,1989-11-21 00:00:00+00,Nottingham,England,Marcus Garvey Centre,1989 Fall European Tour,1989
+-1.150497,52.9536,1992-05-08 00:00:00+00,Nottingham,England,Nottingham Polytechnic,1992 Spring European Tour,1992
+-1.091298,50.798997,1989-11-15 00:00:00+00,Portsmouth,England,Portsmouth Polytechnic,1989 Fall European Tour,1989
+-1.091298,50.798997,1992-05-05 00:00:00+00,Portsmouth,England,Gayety Lounge,1992 Spring European Tour,1992
+1.025699,51.360698,1992-05-04 00:00:00+00,Whitstable,England,Assembly Rooms,1992 Spring European Tour,1992
+-2.616698,53.533294,1988-12-01 00:00:00+00,Wigan,England,Wigan Unity Club,1988 Fall European Tour,1988
+-2.123,52.585496,1999-04-30 00:00:00+00,Wolverhampton,England,Wulfrun Hall,1999 Spring UK/Ireland Tour,1999
+-2.123,52.585496,1995-05-14 00:00:00+00,Wolverhampton,England,Wulfrun Hall,1995 Spring/Summer European Tour,1995
+24.935497,60.169496,2000-10-10 00:00:00+00,Helsinki,Finland,Nosturi,2000 Fall Northern European Tour,2000
+23.787097,61.499098,1995-07-12 00:00:00+00,Tampere,Finland,Pakkahuone,1995 Spring/Summer European Tour,1995
+-0.55,47.466699,1995-05-25 00:00:00+00,Angers,France,Chabada,1995 Spring/Summer European Tour,1995
+2.7819,50.292998,1995-05-20 00:00:00+00,Arras,France,Le Pharos,1995 Spring/Summer European Tour,1995
+-0.5805,44.840397,1999-10-11 00:00:00+00,Bordeaux,France,Theatre Barbey,1999 Fall European Tour,1999
+-0.5805,44.840397,1992-05-29 00:00:00+00,Bordeaux,France,Theatre Barbey,1992 Spring European Tour,1992
+-0.5805,44.840397,1990-11-02 00:00:00+00,Bordeaux,France,Club Jimmy,1990 Fall European Tour,1990
+-0.5805,44.840397,1995-05-26 00:00:00+00,Bordeaux,France,Theatre Barbey,1995 Spring/Summer European Tour,1995
+7.334899,47.792598,1995-06-10 00:00:00+00,Kingersheim,France,Salle Des Fetes,1995 Spring/Summer European Tour,1995
+4.846698,45.748499,1995-06-08 00:00:00+00,Lyon,France,Espace Jean Bergion,1995 Spring/Summer European Tour,1995
+8.723699,48.549797,1988-11-04 00:00:00+00,Nagold,Germany,Juz Nagold,1988 Fall European Tour,1988
+4.846698,45.748499,1990-10-30 00:00:00+00,Lyon,France,Salle des Fetes,1990 Fall European Tour,1990
+5.381099,43.297,1995-06-07 00:00:00+00,Marseille,France,Mirabeau,1995 Spring/Summer European Tour,1995
+5.381099,43.297,1999-10-07 00:00:00+00,Marseille,France,Theatre Du Moulin,1999 Fall European Tour,1999
+6.199997,48.6833,1995-05-21 00:00:00+00,Nancy,France,Terminal Export,1995 Spring/Summer European Tour,1995
+6.199997,48.6833,1990-11-06 00:00:00+00,Nancy,France,Terminal Export,1990 Fall European Tour,1990
+-1.553398,47.2173,1999-10-13 00:00:00+00,Nantes,France,L'Olympic,1999 Fall European Tour,1999
+2.348798,48.853397,1992-05-27 00:00:00+00,Paris,France,Elysee Montmartre,1992 Spring European Tour,1992
+2.348798,48.853397,1989-12-10 00:00:00+00,Paris,France,Hall,1989 Fall European Tour,1989
+2.348798,48.853397,1999-10-14 00:00:00+00,Paris,France,Le Cafe De la Danse,1999 Fall European Tour,1999
+2.348798,48.853397,1995-05-22 00:00:00+00,Paris,France,Elysee Montmartre,1995 Spring/Summer European Tour,1995
+2.348798,48.853397,1988-11-22 00:00:00+00,Paris,France,Club Gibus,1988 Fall European Tour,1988
+2.348798,48.853397,1990-11-05 00:00:00+00,Paris,France,Espace Ornand,1990 Fall European Tour,1990
+0.3333,46.583301,1995-05-24 00:00:00+00,Poitiers,France,Le Confort Moderne,1995 Spring/Summer European Tour,1995
+0.3333,46.583301,1999-10-12 00:00:00+00,Poitiers,France,Le Confort Moderne,1999 Fall European Tour,1999
+0.3333,46.583301,1990-11-03 00:00:00+00,Poitiers,France,Le Confort Moderne,1990 Fall European Tour,1990
+0.3333,46.583301,1992-05-28 00:00:00+00,Poitiers,France,La Blaiserie,1992 Spring European Tour,1992
+-3.628896,47.814198,1990-11-04 00:00:00+00,Sur Belon,France,Kergon Forte,1990 Fall European Tour,1990
+1.443698,43.604297,1995-06-06 00:00:00+00,Toulouse,France,Le Bikini,1995 Spring/Summer European Tour,1995
+1.443698,43.604297,1992-05-30 00:00:00+00,Toulouse,France,Le Bikini,1992 Spring European Tour,1992
+10.883299,48.366695,1988-11-05 00:00:00+00,Augsburg,Germany,Bootleg,1988 Fall European Tour,1988
+13.410497,52.524397,1989-12-03 00:00:00+00,Berlin,Germany,Menza,1989 Fall European Tour,1989
+13.410497,52.524397,1995-07-02 00:00:00+00,Berlin,Germany,TU Mensa,1995 Spring/Summer European Tour,1995
+13.410497,52.524397,1992-06-28 00:00:00+00,Berlin,Germany,Tempodrome,1992 Spring European Tour,1992
+13.410497,52.524397,1988-10-28 00:00:00+00,Berlin,Germany,Ex,1988 Fall European Tour,1988
+13.410497,52.524397,1990-10-07 00:00:00+00,Berlin,Germany,Neue Welt,1990 Fall European Tour,1990
+13.410497,52.524397,1999-09-20 00:00:00+00,Berlin,Germany,SO 36,1999 Fall European Tour,1999
+8.533297,52.033295,1995-07-08 00:00:00+00,Bielefeld,Germany,JZ Kamp,1995 Spring/Summer European Tour,1995
+8.533297,52.033295,1989-12-06 00:00:00+00,Bielefeld,Germany,AJZ,1989 Fall European Tour,1989
+8.533297,52.033295,1990-10-08 00:00:00+00,Bielefeld,Germany,PC 69,1990 Fall European Tour,1990
+8.533297,52.033295,1988-10-31 00:00:00+00,Bielefeld,Germany,AJZ,1988 Fall European Tour,1988
+8.807796,53.075196,1995-07-09 00:00:00+00,Bremen,Germany,Schlachthof,1995 Spring/Summer European Tour,1995
+8.807796,53.075196,1992-07-03 00:00:00+00,Bremen,Germany,Schlachthof,1992 Spring European Tour,1992
+8.807796,53.075196,1990-09-25 00:00:00+00,Bremen,Germany,Schlachthof,1990 Fall European Tour,1990
+7.465996,51.514896,1992-06-30 00:00:00+00,Dortmund,Germany,Music Circus,1992 Spring European Tour,1992
+7.465996,51.514896,1995-07-03 00:00:00+00,Dortmund,Germany,Soundgarden,1995 Spring/Summer European Tour,1995
+6.776196,51.221697,1988-11-01 00:00:00+00,Dusseldorf,Germany,AK47,1988 Fall European Tour,1988
+8.684197,50.115497,1992-06-19 00:00:00+00,Frankfurt,Germany,Hugenotten Halle,1992 Spring European Tour,1992
+10.0153,53.575298,1992-07-02 00:00:00+00,Hamburg,Germany,Fabrik,1992 Spring European Tour,1992
+10.0153,53.575298,1995-07-04 00:00:00+00,Hamburg,Germany,Fabrik,1995 Spring/Summer European Tour,1995
+10.0153,53.575298,1988-10-27 00:00:00+00,Hamburg,Germany,Hafenstrasse,1988 Fall European Tour,1988
+10.0153,53.575298,1999-09-18 00:00:00+00,Hamburg,Germany,Fabrik,1999 Fall European Tour,1999
+10.0153,53.575298,1990-09-26 00:00:00+00,Hamburg,Germany,Fabrik,1990 Fall European Tour,1990
+10.0153,53.575298,1989-12-02 00:00:00+00,Hamburg,Germany,Markthalle,1989 Fall European Tour,1989
+9.733197,52.370496,1988-10-29 00:00:00+00,Hannover,Germany,Korn,1988 Fall European Tour,1988
+9.733197,52.370496,1992-06-25 00:00:00+00,Hannover,Germany,Glocksee,1992 Spring European Tour,1992
+9.733197,52.370496,1990-10-09 00:00:00+00,Hannover,Germany,Glocksee,1990 Fall European Tour,1990
+8.690798,49.407696,1989-12-04 00:00:00+00,Heidelberg,Germany,Mensa,1989 Fall European Tour,1989
+7.338699,49.3264,1988-11-03 00:00:00+00,Homburg,Germany,Juz Homburg,1988 Fall European Tour,1988
+10.134897,54.321298,1988-10-30 00:00:00+00,Kiel,Germany,Alte Meierei,1988 Fall European Tour,1988
+6.949999,50.933297,1992-07-01 00:00:00+00,Koln,Germany,Rhenania,1992 Spring European Tour,1992
+12.371298,51.339596,1999-09-22 00:00:00+00,Leipzig,Germany,Conne Island,1999 Fall European Tour,1999
+8.614198,52.306995,1988-10-21 00:00:00+00,Lubeck,Germany,Alternative,1988 Fall European Tour,1988
+8.279099,49.984199,1995-07-01 00:00:00+00,Mainz,Germany,Kuze,1995 Spring/Summer European Tour,1995
+8.279099,49.984199,1990-10-12 00:00:00+00,Mainz,Germany,Eltzerhof,1990 Fall European Tour,1990
+11.432215,48.261783,1999-09-25 00:00:00+00,Munich,Germany,Backstage,1999 Fall European Tour,1999
+11.433405,48.260593,1990-10-14 00:00:00+00,Munich,Germany,Theaterfabrik,1990 Fall European Tour,1990
+11.435785,48.259403,1992-06-16 00:00:00+00,Munich,Germany,Theaterfabrik,1992 Spring European Tour,1992
+11.434595,48.260593,1989-12-05 00:00:00+00,Munich,Germany,Theaterfabrik,1989 Fall European Tour,1989
+11.432215,48.260593,1995-06-26 00:00:00+00,Munich,Germany,Nachtwerk,1995 Spring/Summer European Tour,1995
+9.283299,48.6833,1992-06-23 00:00:00+00,Neuhausen auf den Fildern,Germany,Egelseehalle,1992 Spring European Tour,1992
+11.077497,49.454198,1999-09-24 00:00:00+00,Nuremberg,Germany,Z-Bau,1999 Fall European Tour,1999
+11.077497,49.454198,1992-06-22 00:00:00+00,Nuremberg,Germany,Komm,1992 Spring European Tour,1992
+6.8807,51.473099,1990-10-10 00:00:00+00,Oberhausen,Germany,Music Circus,1990 Fall European Tour,1990
+8.049799,52.272597,1992-06-29 00:00:00+00,Osnabruck,Germany,Hyde Park,1992 Spring European Tour,1992
+11.663299,48.064896,1988-11-09 00:00:00+00,Ottobrunn,Germany,Juz Einsteinstr.,1988 Fall European Tour,1988
+9.176998,48.782297,1995-06-30 00:00:00+00,Stuttgart,Germany,Hallschlag JZ,1995 Spring/Summer European Tour,1995
+9.176998,48.782297,1990-10-13 00:00:00+00,Stuttgart,Germany,Altes Feuerwehrhaus,1990 Fall European Tour,1990
+9.991598,48.398396,1992-06-20 00:00:00+00,Ulm,Germany,Stadthalle Langenau,1992 Spring European Tour,1992
+9.991598,48.398396,1990-10-16 00:00:00+00,Ulm,Germany,Roxy,1990 Fall European Tour,1990
+9.991598,48.398396,1995-06-27 00:00:00+00,Ulm,Germany,Roxy,1995 Spring/Summer European Tour,1995
+8.493597,48.062302,1992-06-24 00:00:00+00,V-Schwinnigen,Germany,Canape,1992 Spring European Tour,1992
+9.316398,48.832398,1988-11-02 00:00:00+00,Waiblingen,Germany,Villa Roller,1988 Fall European Tour,1988
+9.936097,49.787797,1990-10-11 00:00:00+00,Wurzburg,Germany,Rock Palace,1990 Fall European Tour,1990
+114.157697,22.285497,1996-11-03 00:00:00+00,Hong Kong,Hong Kong,Kowloon Park,1996 US/Japan/Hong Kong/Australia Tour,1996
+114.157697,22.285497,1996-11-02 00:00:00+00,Hong Kong,Hong Kong,South Island School Hall,1996 US/Japan/Hong Kong/Australia Tour,1996
+19.039896,47.498001,1992-06-11 00:00:00+00,Budapest,Hungary,Black Hole/Fekete Lyuk,1992 Spring European Tour,1992
+-21.895397,64.135497,1999-04-27 00:00:00+00,Reykjavik,Iceland,National Radio Building,1999 Spring UK/Ireland Tour,1999
+-5.933297,54.583298,1992-05-12 00:00:00+00,Belfast,England,Queen's University Mandela Hall,1992 Spring European Tour,1992
+-5.933297,54.583298,1989-11-24 00:00:00+00,Belfast,England,Arts Centre,1989 Fall European Tour,1989
+-5.933297,54.583298,1990-09-16 00:00:00+00,Belfast,England,Belfast Art College,1990 Fall European Tour,1990
+-5.933297,54.583298,1995-05-09 00:00:00+00,Belfast,England,Queen's Hall,1995 Spring/Summer European Tour,1995
+-8.470597,51.897995,1999-05-08 00:00:00+00,Cork,Ireland,Nancy Spains,1999 Spring UK/Ireland Tour,1999
+-9.0503,51.5867,2002-10-27 00:00:00+00,Derry,Ireland,Nerve Centre,2002 Fall UK/Ireland Tour,2002
+-6.248899,53.333096,1990-09-17 00:00:00+00,Dublin,Ireland,McGonagles,1990 Fall European Tour,1990
+-6.248899,53.333096,2002-10-25 00:00:00+00,Dublin,Ireland,Red Box,2002 Fall UK/Ireland Tour,2002
+-6.248899,53.333096,1988-11-29 00:00:00+00,Dublin,Ireland,McGonagles,1988 Fall European Tour,1988
+-6.248899,53.333096,1995-05-10 00:00:00+00,Dublin,Ireland,Ormond Center,1995 Spring/Summer European Tour,1995
+-6.248899,53.333096,1989-11-23 00:00:00+00,Dublin,Ireland,McGonagles,1989 Fall European Tour,1989
+-6.248899,53.333096,1999-05-09 00:00:00+00,Dublin,Ireland,Temple Bar Music Center,1999 Spring UK/Ireland Tour,1999
+-6.248899,53.333096,1992-05-11 00:00:00+00,Dublin,Ireland,SFX,1992 Spring European Tour,1992
+-7.252199,52.654199,1999-05-07 00:00:00+00,Kilkenny,Ireland,Friary Hall,1999 Spring UK/Ireland Tour,1999
+-8.623099,52.664699,2002-10-26 00:00:00+00,Limerick,Ireland,Savoy,2002 Fall UK/Ireland Tour,2002
+11.338798,44.493798,1995-06-16 00:00:00+00,Bologna,Italy,Kactus Radio Festival Castel Maggiore,1995 Spring/Summer European Tour,1995
+11.338798,44.493798,1990-10-26 00:00:00+00,Bologna,Italy,Fabrikka,1990 Fall European Tour,1990
+15.0872,37.502098,1999-10-03 00:00:00+00,Catania,Italy,Porto Catania Outdoor Show,1999 Fall European Tour,1999
+15.0872,37.502098,1995-06-18 00:00:00+00,Catania,Italy,Porto Catania Outdoor Show,1995 Spring/Summer European Tour,1995
+11.249997,43.7667,1995-06-14 00:00:00+00,Florence,Italy,CPA,1995 Spring/Summer European Tour,1995
+11.249997,43.7667,1999-10-01 00:00:00+00,Florence,Italy,CPA,1999 Fall European Tour,1999
+12.896898,46.112499,1995-06-22 00:00:00+00,G.De Spilimbergo,Italy,Rototom,1995 Spring/Summer European Tour,1995
+9.195098,40.161799,1995-06-17 00:00:00+00,Gavoi,Italy,Covo Dei Nottambuli,1995 Spring/Summer European Tour,1995
+12.326696,45.438598,1999-09-29 00:00:00+00,Marghera,Italy,Rivolta,1999 Fall European Tour,1999
+9.189496,45.464294,1995-06-12 00:00:00+00,Milan,Italy,Cascina Monlue,1995 Spring/Summer European Tour,1995
+9.189496,45.464294,1999-10-02 00:00:00+00,Milan,Italy,Leoncavallo,1999 Fall European Tour,1999
+11.433405,48.260593,1990-10-25 00:00:00+00,Milan,Italy,Leoncavallo,1990 Fall European Tour,1990
+9.189496,45.464294,1988-11-19 00:00:00+00,Milan,Italy,Leoncavallo,1988 Fall European Tour,1988
+10.925397,44.647799,1992-06-08 00:00:00+00,Modena,Italy,Dancing Condor,1992 Spring European Tour,1992
+11.209499,46.543297,1988-11-16 00:00:00+00,Naples,Italy,Diamond Dogs,1988 Fall European Tour,1988
+11.881799,45.415197,1995-06-13 00:00:00+00,Padova,Italy,C.S.O Pedro,1995 Spring/Summer European Tour,1995
+11.881799,45.415197,1992-06-09 00:00:00+00,Padova,Italy,C.S.O Pedro,1992 Spring European Tour,1992
+10.396597,43.715497,1992-06-06 00:00:00+00,Pisa,Italy,Macchia Nera,1992 Spring European Tour,1992
+10.396597,43.715497,1988-11-18 00:00:00+00,Pisa,Italy,Social Center,1988 Fall European Tour,1988
+10.396597,43.715497,1990-10-28 00:00:00+00,Pisa,Italy,Macchia Nera,1990 Fall European Tour,1990
+12.483896,41.894697,1992-06-07 00:00:00+00,Rome,Italy,Forte Prenestino,1992 Spring European Tour,1992
+12.483896,41.894697,1990-10-27 00:00:00+00,Rome,Italy,Forte Prenestino,1990 Fall European Tour,1990
+12.483896,41.894697,1988-11-17 00:00:00+00,Rome,Italy,Forte Prenestino,1988 Fall European Tour,1988
+12.483896,41.894697,1995-06-20 00:00:00+00,Rome,Italy,Forte Prenestino,1995 Spring/Summer European Tour,1995
+12.483896,41.894697,1999-09-30 00:00:00+00,Rome,Italy,Forte Prenestino,1999 Fall European Tour,1999
+12.594996,42.355897,1992-06-05 00:00:00+00,Torino,Italy,Murazzi,1992 Spring European Tour,1992
+12.594996,42.355897,1988-11-20 00:00:00+00,Torino,Italy,El Paso,1988 Fall European Tour,1988
+12.594996,42.355897,1990-10-29 00:00:00+00,Torino,Italy,Hiroshima,1990 Fall European Tour,1990
+12.594996,42.355897,1995-06-15 00:00:00+00,Torino,Italy,Parco Ex Ospedale Psichiatrico,1995 Spring/Summer European Tour,1995
+13.242197,46.0619,1990-10-24 00:00:00+00,Udine,Italy,Ala Rock,1990 Fall European Tour,1990
+13.242197,46.0619,1988-11-14 00:00:00+00,Udine,Italy,Centro Sociale Autogestito,1988 Fall European Tour,1988
+10.997797,45.434198,1995-06-21 00:00:00+00,Verona,Italy,Forte Del Chievo,1995 Spring/Summer European Tour,1995
+130.414742,33.609414,1996-10-21 00:00:00+00,Fukuoka,Japan,Viure Hall,1996 US/Japan/Hong Kong/Australia Tour,1996
+135.7539,35.021098,1993-11-01 00:00:00+00,Kyoto,Japan,Muse Hall,1993 Japan/Australia/New Zealand Tour,1993
+140.035,38.103598,1996-10-25 00:00:00+00,Nagoya,Japan,Heartland,1996 US/Japan/Hong Kong/Australia Tour,1996
+140.035,38.103598,1993-11-03 00:00:00+00,Nagoya,Japan,Club Quattro,1993 Japan/Australia/New Zealand Tour,1993
+133.934951,34.665326,1996-10-22 00:00:00+00,Okayama,Japan,Pepperland,1996 US/Japan/Hong Kong/Australia Tour,1996
+139.601898,35.804696,1991-11-14 00:00:00+00,Osaka,Japan,Sun Hall,1991 Australia/New Zealand/Japan Tour,1991
+139.601898,35.804696,1996-10-23 00:00:00+00,Osaka,Japan,Sun Hall,1996 US/Japan/Hong Kong/Australia Tour,1996
+139.601898,35.804696,1993-10-31 00:00:00+00,Osaka,Japan,AM Hall,1993 Japan/Australia/New Zealand Tour,1993
+141.346896,43.0642,1996-10-30 00:00:00+00,Sapporo,Japan,Counteraction,1996 US/Japan/Hong Kong/Australia Tour,1996
+141.346896,43.0642,1996-10-31 00:00:00+00,Sapporo,Japan,Bessie,1996 US/Japan/Hong Kong/Australia Tour,1996
+139.691699,35.689495,1993-11-06 00:00:00+00,Tokyo,Japan,Club Quattro,1993 Japan/Australia/New Zealand Tour,1993
+139.691699,35.689495,1991-11-11 00:00:00+00,Tokyo,Japan,Anti Knock,1991 Australia/New Zealand/Japan Tour,1991
+139.691699,35.689495,1991-11-12 00:00:00+00,Tokyo,Japan,Anti Knock,1991 Australia/New Zealand/Japan Tour,1991
+139.691699,35.689495,1996-10-27 00:00:00+00,Tokyo,Japan,Guilty,1996 US/Japan/Hong Kong/Australia Tour,1996
+139.691699,35.689495,1993-11-05 00:00:00+00,Tokyo,Japan,Club Quattro,1993 Japan/Australia/New Zealand Tour,1993
+139.691699,35.689495,1996-10-28 00:00:00+00,Tokyo,Japan,Guilty,1996 US/Japan/Hong Kong/Australia Tour,1996
+101.686499,3.141198,1996-11-06 00:00:00+00,Kuala Lumpur,Malaysia,Fire Club,1996 US/Japan/Hong Kong/Australia Tour,1996
+4.889696,52.374,1990-09-04 00:00:00+00,Amsterdam,Netherlands,Paradiso,1990 Fall European Tour,1990
+4.889696,52.374,1999-09-16 00:00:00+00,Amsterdam,Netherlands,Paradiso,1999 Fall European Tour,1999
+4.889696,52.374,1992-05-01 00:00:00+00,Amsterdam,Netherlands,Paradiso,1992 Spring European Tour,1992
+4.889696,52.374,1988-10-16 00:00:00+00,Amsterdam,Netherlands,Van Hall,1988 Fall European Tour,1988
+4.889696,52.374,1990-11-07 00:00:00+00,Amsterdam,Netherlands,Paradiso,1990 Fall European Tour,1990
+4.889696,52.374,1989-12-09 00:00:00+00,Amsterdam,Netherlands,Melkweg,1989 Fall European Tour,1989
+4.889696,52.374,1995-05-17 00:00:00+00,Amsterdam,Netherlands,Paradiso,1995 Spring/Summer European Tour,1995
+4.889696,52.374,1989-11-03 00:00:00+00,Amsterdam,Netherlands,Vranckrijk,1989 Fall European Tour,1989
+5.3042,51.699199,1992-05-21 00:00:00+00,Den Bosch,Netherlands,William II,1992 Spring European Tour,1992
+4.298597,52.076696,1992-05-24 00:00:00+00,Den Haag,Netherlands,Paard,1992 Spring European Tour,1992
+5.477797,51.440797,1988-10-19 00:00:00+00,Eindhoven,Netherlands,Bunker,1988 Fall European Tour,1988
+5.477797,51.440797,1988-12-16 00:00:00+00,Eindhoven,Netherlands,Effenaar,1988 Fall European Tour,1988
+5.477797,51.440797,1995-05-04 00:00:00+00,Eindhoven,Netherlands,Effenaar,1995 Spring/Summer European Tour,1995
+5.477797,51.440797,1989-12-08 00:00:00+00,Eindhoven,Netherlands,Effenaar,1989 Fall European Tour,1989
+5.477797,51.440797,1990-09-05 00:00:00+00,Eindhoven,Netherlands,Effenaar,1990 Fall European Tour,1990
+6.895797,52.218297,1990-09-06 00:00:00+00,Enschede,Netherlands,Agoara University,1990 Fall European Tour,1990
+6.566698,53.219199,1989-12-07 00:00:00+00,Groningen,Netherlands,Vera,1989 Fall European Tour,1989
+6.566698,53.219199,1995-07-07 00:00:00+00,Groningen,Netherlands,Vera,1995 Spring/Summer European Tour,1995
+6.566698,53.219199,1992-05-20 00:00:00+00,Groningen,Netherlands,Vera,1992 Spring European Tour,1992
+6.566698,53.219199,1990-09-03 00:00:00+00,Groningen,Netherlands,Vera,1990 Fall European Tour,1990
+5.059699,52.642498,1988-10-15 00:00:00+00,Hoorn,Netherlands,Troll,1988 Fall European Tour,1988
+5.059699,52.642498,1990-09-01 00:00:00+00,Hoorn,Netherlands,Troll,1990 Fall European Tour,1990
+5.852798,51.842498,1992-07-11 00:00:00+00,Nijmegen,Netherlands,Doornroosje,1992 Spring European Tour,1992
+5.852798,51.842498,1995-07-05 00:00:00+00,Nijmegen,Netherlands,Doornroosje,1995 Spring/Summer European Tour,1995
+5.852798,51.842498,1989-11-09 00:00:00+00,Nijmegen,Netherlands,Doornroosje,1989 Fall European Tour,1989
+4.479198,51.922498,1988-10-14 00:00:00+00,Rotterdam,Netherlands,Chill Up,1988 Fall European Tour,1988
+4.479198,51.922498,1990-09-07 00:00:00+00,Rotterdam,Netherlands,Nighttown,1990 Fall European Tour,1990
+5.091297,51.555497,1999-10-16 00:00:00+00,Tilburg,Netherlands,O13,1999 Fall European Tour,1999
+6.168099,51.369997,1992-05-23 00:00:00+00,Venlo,Netherlands,Perron 55,1992 Spring European Tour,1992
+5.666698,51.97,1990-09-08 00:00:00+00,Wageningen,Netherlands,Uni,1990 Fall European Tour,1990
+174.766697,-36.8667,1993-12-12 00:00:00+00,Auckland,New Zealand,Powerstation,1993 Japan/Australia/New Zealand Tour,1993
+174.766697,-36.8667,1993-12-11 00:00:00+00,Auckland,New Zealand,Powerstation,1993 Japan/Australia/New Zealand Tour,1993
+174.766697,-36.8667,1997-06-27 00:00:00+00,Auckland,New Zealand,Powerstation,1997 Summer Australia/New Zealand Tour,1997
+174.766697,-36.8667,1991-11-08 00:00:00+00,Auckland,New Zealand,Powerstation,1991 Australia/New Zealand/Japan Tour,1991
+2.158997,41.388797,1992-05-31 00:00:00+00,Barcelona,Spain,Zeleste 2,1992 Spring European Tour,1992
+172.633299,-43.533298,1997-07-02 00:00:00+00,Christchurch,New Zealand,Caledonian Hall,1997 Summer Australia/New Zealand Tour,1997
+172.633299,-43.533298,1993-12-08 00:00:00+00,Christchurch,New Zealand,Caledonian Hall,1993 Japan/Australia/New Zealand Tour,1993
+170.503599,-45.874199,1993-12-09 00:00:00+00,Dunedin,New Zealand,Sammy's,1993 Japan/Australia/New Zealand Tour,1993
+170.503599,-45.874199,1997-07-01 00:00:00+00,Dunedin,New Zealand,Room,1997 Summer Australia/New Zealand Tour,1997
+173.283996,-41.270798,1997-06-29 00:00:00+00,Nelson,New Zealand,Nelson Arts Centre,1997 Summer Australia/New Zealand Tour,1997
+174.775597,-41.286595,1993-12-10 00:00:00+00,Wellington,New Zealand,Student Union,1993 Japan/Australia/New Zealand Tour,1993
+174.775597,-41.286595,1997-06-28 00:00:00+00,Wellington,New Zealand,Victoria University,1997 Summer Australia/New Zealand Tour,1997
+5.3242,60.392997,2000-10-04 00:00:00+00,Bergen,Norway,Kvarteret,2000 Fall Northern European Tour,2000
+10.746099,59.912699,1992-07-06 00:00:00+00,Oslo,Norway,Rockefeller Music Hall,1992 Spring European Tour,1992
+10.746099,59.912699,1995-07-14 00:00:00+00,Oslo,Norway,Sentrum Scene,1995 Spring/Summer European Tour,1995
+10.746099,59.912699,1988-10-25 00:00:00+00,Oslo,Norway,Blitz,1988 Fall European Tour,1988
+10.746099,59.912699,2000-10-02 00:00:00+00,Oslo,Norway,Rockefeller Music Hall,2000 Fall Northern European Tour,2000
+10.746099,59.912699,1990-09-28 00:00:00+00,Oslo,Norway,Blitz,1990 Fall European Tour,1990
+18.955096,69.648901,1990-09-29 00:00:00+00,Tromso,Norway,Brigga Lillero Cafe,1990 Fall European Tour,1990
+10.395096,63.430496,1990-09-30 00:00:00+00,Trondheim,Norway,UFFA,1990 Fall European Tour,1990
+10.395096,63.430496,2000-10-03 00:00:00+00,Trondheim,Norway,Uffa,2000 Fall Northern European Tour,2000
+16.737799,53.151499,1990-10-04 00:00:00+00,Pila,Poland,Sports Gym,1990 Fall European Tour,1990
+16.929899,52.406897,1992-06-26 00:00:00+00,Poznan,Poland,Eskulap,1992 Spring European Tour,1992
+21.011796,52.2298,1990-10-05 00:00:00+00,Warsaw,Poland,Karuzela University,1990 Fall European Tour,1990
+17.033297,51.099998,1999-09-21 00:00:00+00,Wroclaw,Poland,Kazamaty,1999 Fall European Tour,1999
+15.008396,51.149395,1990-10-06 00:00:00+00,Zgorzelec,Poland,Cultural Center / Military Museum,1990 Fall European Tour,1990
+-9.133298,38.7167,1995-05-31 00:00:00+00,Lisbon,Portugal,Gartejo,1995 Spring/Summer European Tour,1995
+-2.098097,57.143698,1999-05-04 00:00:00+00,Aberdeen,Scotland,Lemon Tree,1999 Spring UK/Ireland Tour,1999
+-3.196499,55.952098,1999-05-03 00:00:00+00,Edinburgh,Scotland,Liquid Room,1999 Spring UK/Ireland Tour,1999
+-3.196499,55.952098,1990-09-15 00:00:00+00,Edinburgh,Scotland,Calton Studios,1990 Fall European Tour,1990
+-4.257599,55.865196,1999-05-05 00:00:00+00,Glasgow,Scotland,Glasgow School of Art,1999 Spring UK/Ireland Tour,1999
+-4.257599,55.865196,1995-05-08 00:00:00+00,Glasgow,Scotland,Barrowland Ballroom,1995 Spring/Summer European Tour,1995
+-4.257599,55.865196,1989-11-27 00:00:00+00,Glasgow,Scotland,Mayfair,1989 Fall European Tour,1989
+-4.257599,55.865196,1992-05-16 00:00:00+00,Glasgow,Scotland,Barrowland Ballroom,1992 Spring European Tour,1992
+-4.257599,55.865196,2002-10-29 00:00:00+00,Glasgow,Scotland,Barrowland Ballroom,2002 Fall UK/Ireland Tour,2002
+103.850096,1.289697,1993-11-08 00:00:00+00,Singapore,Singapore,Bukit Batok Community Center,1993 Japan/Australia/New Zealand Tour,1993
+103.850096,1.289697,1996-11-08 00:00:00+00,Singapore,Singapore,Fire Club,1996 US/Japan/Hong Kong/Australia Tour,1996
+14.505099,46.0511,1999-09-28 00:00:00+00,Ljubljana,Yugoslavia,Metelkova,1999 Fall European Tour,1999
+14.505099,46.0511,1992-06-10 00:00:00+00,Ljubljana,Yugoslavia,University Student Bar,1992 Spring European Tour,1992
+14.505099,46.0511,1995-06-23 00:00:00+00,Ljubljana,Yugoslavia,Sports Hall,1995 Spring/Summer European Tour,1995
+2.158997,41.388797,1999-10-08 00:00:00+00,Barcelona,Spain,Zeleste,1999 Fall European Tour,1999
+2.158997,41.388797,1990-11-01 00:00:00+00,Barcelona,Spain,KGB,1990 Fall European Tour,1990
+2.158997,41.388797,1995-06-03 00:00:00+00,Barcelona,Spain,Zeleste,1995 Spring/Summer European Tour,1995
+-2.417499,43.115099,1999-10-10 00:00:00+00,Bergara,Spain,Sala Jam,1999 Fall European Tour,1999
+-2.022128,42.930513,1995-05-27 00:00:00+00,Lakuntza,Spain,Sala Matraka,1995 Spring/Summer European Tour,1995
+-3.702597,40.416499,1992-06-02 00:00:00+00,Madrid,Spain,Revolver,1992 Spring European Tour,1992
+-3.702597,40.416499,1995-06-02 00:00:00+00,Madrid,Spain,Revolver,1995 Spring/Summer European Tour,1995
+-5.844801,43.360294,1995-05-28 00:00:00+00,Oviedo,Spain,Sala Antiquo,1995 Spring/Summer European Tour,1995
+-8.545698,42.880497,1995-05-29 00:00:00+00,San.De Campostela,Spain,Sala Numero K,1995 Spring/Summer European Tour,1995
+-0.377398,39.469799,1995-06-04 00:00:00+00,Valencia,Spain,Zepplin Rock,1995 Spring/Summer European Tour,1995
+-0.877298,41.656099,1992-06-03 00:00:00+00,Zaragoza,Spain,En Bruto,1992 Spring European Tour,1992
+17.1417,60.674496,1990-10-01 00:00:00+00,Gavle,Sweden,Cafe Q,1990 Fall European Tour,1990
+17.1417,60.674496,1992-07-08 00:00:00+00,Gavle,Sweden,Cafe Q,1992 Spring European Tour,1992
+14.156197,57.781501,2000-10-06 00:00:00+00,Jonkopping,Sweden,Kulturehuset,2000 Fall Northern European Tour,2000
+15.621597,58.410898,1990-10-02 00:00:00+00,Linkoping,Sweden,Rock Lamour,1990 Fall European Tour,1990
+13.193198,55.705796,2000-10-08 00:00:00+00,Lund,Sweden,Mejeriet,2000 Fall Northern European Tour,2000
+18.064896,59.332597,2000-10-01 00:00:00+00,Stockholm,Sweden,Kollgsborg,2000 Fall Northern European Tour,2000
+20.259696,63.828397,2000-09-30 00:00:00+00,Umea,Sweden,Galaxen,2000 Fall Northern European Tour,2000
+6.145697,46.202201,1999-10-06 00:00:00+00,Geneva,Switzerland,L'Usine,1999 Fall European Tour,1999
+8.549999,47.366698,1992-06-18 00:00:00+00,Zurich,Switzerland,Rote Fabrik,1992 Spring European Tour,1992
+8.549999,47.366698,1988-11-08 00:00:00+00,Zurich,Switzerland,Provitreff House,1988 Fall European Tour,1988
+8.549999,47.366698,1990-10-17 00:00:00+00,Zurich,Switzerland,Rote Fabrik,1990 Fall European Tour,1990
+8.549999,47.366698,1995-06-09 00:00:00+00,Zurich,Switzerland,Rote Fabrik,1995 Spring/Summer European Tour,1995
+8.549999,47.366698,1999-10-05 00:00:00+00,Zurich,Switzerland,Rote Fabrik,1999 Fall European Tour,1999
+-149.900297,61.218097,1995-11-01 00:00:00+00,Anchorage,USA,Egan Center,1995 Fall USA/Canada Tour,1995
+-86.802499,33.520695,2002-03-25 00:00:00+00,Birmingham,USA,Sloss Furnace,2002 Spring Southern USA/Texas Tour,2002
+-86.802499,33.520695,1991-05-21 00:00:00+00,Birmingham,USA,Tuxedo Junction,1991 Spring USA Tour,1991
+-86.586101,34.730399,1996-03-27 00:00:00+00,Huntsville,USA,University of Alabama Spragins Hall Gym,1996 Southern USA Tour,1996
+-86.586101,34.730399,1991-05-08 00:00:00+00,Huntsville,USA,Carriage House Inn,1991 Spring USA Tour,1991
+-92.442097,35.088698,1998-11-24 00:00:00+00,Conway,USA,"Hendrix University, Hulen Ballroom",1998 Fall Mid-West USA Tour,1998
+-94.157397,36.062596,1990-06-12 00:00:00+00,Fayetteville,USA,Studio 225,1990 Spring/Summer USA Tour,1990
+-94.157397,36.062596,1991-06-01 00:00:00+00,Fayetteville,USA,Studio 225,1991 Spring USA Tour,1991
+-92.289596,34.746496,1990-05-03 00:00:00+00,Little Rock,USA,Mandrake's,1990 Spring/Summer USA Tour,1990
+-92.289596,34.746496,1991-05-23 00:00:00+00,Little Rock,USA,Vino's,1991 Spring USA Tour,1991
+-92.289596,34.746496,2002-04-02 00:00:00+00,Little Rock,USA,Rivermarket Pavillion,2002 Spring Southern USA/Texas Tour,2002
+-112.073999,33.448398,1995-11-11 00:00:00+00,Phoenix,USA,Party Gardens,1995 Fall USA/Canada Tour,1995
+-112.073999,33.448398,1989-05-16 00:00:00+00,Phoenix,USA,Time Out of Mind,1989 Spring USA Tour,1989
+-112.073999,33.448398,2001-04-12 00:00:00+00,Phoenix,USA,Celebrity Theater,2001 Spring Western USA Tour,2001
+-112.073999,33.448398,1991-09-09 00:00:00+00,Phoenix,USA,Silver Dollar,1991 Summer/Fall USA/Canada Tour,1991
+-112.073999,33.448398,1990-05-12 00:00:00+00,Phoenix,USA,U.A. Local Pipefitter's Hall,1990 Spring/Summer USA Tour,1990
+-111.239901,36.134996,2001-04-13 00:00:00+00,Tuba City,USA,Grey Hills High School,2001 Spring Western USA Tour,2001
+-110.926499,32.221696,1988-05-24 00:00:00+00,Tucson,USA,Park Place BBQ,1988 Spring USA Tour,1988
+-110.926499,32.221696,1990-05-11 00:00:00+00,Tucson,USA,Dodiak Gallery,1990 Spring/Summer USA Tour,1990
+-110.926499,32.221696,1993-04-20 00:00:00+00,Tucson,USA,Coyote's,1993 Spring USA Tour,1993
+-110.926499,32.221696,2001-04-10 00:00:00+00,Tucson,USA,Rialto Theater,2001 Spring Western USA Tour,2001
+-119.018699,35.373298,1999-03-04 00:00:00+00,Bakersfield,USA,Juarez Hall,1999 West Coast USA Tour,1999
+-119.018699,35.373298,1995-11-07 00:00:00+00,Bakersfield,USA,Tejon Theater,1995 Fall USA/Canada Tour,1995
+-122.272798,37.8716,1989-05-20 00:00:00+00,Berkeley,USA,Gilman Street,1989 Spring USA Tour,1989
+-122.272798,37.8716,1988-05-20 00:00:00+00,Berkeley,USA,Gilman Street,1988 Spring USA Tour,1988
+-122.272798,37.8716,1993-04-30 00:00:00+00,Berkeley,USA,UC Berkeley Sproul Plaza,1993 Spring USA Tour,1993
+-122.272798,37.8716,1991-09-01 00:00:00+00,Berkeley,USA,Gilman Street,1991 Summer/Fall USA/Canada Tour,1991
+-122.272798,37.8716,1990-05-20 00:00:00+00,Berkeley,USA,Gilman Street,1990 Spring/Summer USA Tour,1990
+-121.837497,39.728496,1999-03-03 00:00:00+00,Chico,USA,Cal State University Shurmer Gym,1999 West Coast USA Tour,1999
+-121.837497,39.728496,1990-05-24 00:00:00+00,Chico,USA,Burro Room,1990 Spring/Summer USA Tour,1990
+-117.291999,33.036995,1990-05-15 00:00:00+00,Encinitas,USA,La Paloma Theater,1990 Spring/Summer USA Tour,1990
+-124.163699,40.802099,1990-05-25 00:00:00+00,Eureka,USA,National Guard Armory,1990 Spring/Summer USA Tour,1990
+-119.772399,36.7477,1991-09-04 00:00:00+00,Fresno,USA,Knights of Columbus Hall,1991 Summer/Fall USA/Canada Tour,1991
+-119.860999,34.413297,1991-09-05 00:00:00+00,Isla Vista,USA,Anaconda,1991 Summer/Fall USA/Canada Tour,1991
+-119.860999,34.413297,1990-05-18 00:00:00+00,Isla Vista,USA,UC Santa Barbara Pub,1990 Spring/Summer USA Tour,1990
+-118.173997,35.052498,1991-09-06 00:00:00+00,Jawbone Canyon,USA,Jawbone Canyon Desert,1991 Summer/Fall USA/Canada Tour,1991
+-118.189199,33.766997,1988-05-21 00:00:00+00,Long Beach,USA,Zed Records,1988 Spring USA Tour,1988
+-118.2437,34.052197,1989-05-18 00:00:00+00,Los Angeles,USA,Anti-Club,1989 Spring USA Tour,1989
+-118.2437,34.052197,1991-09-08 00:00:00+00,Los Angeles,USA,Hollywood Palladium,1991 Summer/Fall USA/Canada Tour,1991
+-118.2437,34.052197,1992-01-24 00:00:00+00,Los Angeles,USA,Hollywood Palladium,1992 Winter/Spring Regional Dates,1992
+-118.2437,34.052197,1993-04-23 00:00:00+00,Los Angeles,USA,Hollywood Palladium,1993 Spring USA Tour,1993
+-118.2437,34.052197,1995-11-09 00:00:00+00,Los Angeles,USA,Shrine Auditorium,1995 Fall USA/Canada Tour,1995
+-118.2437,34.052197,1995-11-08 00:00:00+00,Los Angeles,USA,Shrine Auditorium,1995 Fall USA/Canada Tour,1995
+-118.2437,34.052197,1992-01-25 00:00:00+00,Los Angeles,USA,Hollywood Palladium,1992 Winter/Spring Regional Dates,1992
+-118.2437,34.052197,1999-03-08 00:00:00+00,Los Angeles,USA,Palace,1999 West Coast USA Tour,1999
+-118.2437,34.052197,1999-03-09 00:00:00+00,Los Angeles,USA,Palace,1999 West Coast USA Tour,1999
+-118.2437,34.052197,1999-03-10 00:00:00+00,Los Angeles,USA,Palace,1999 West Coast USA Tour,1999
+-118.2437,34.052197,1993-04-25 00:00:00+00,Los Angeles,USA,Hollywood Palladium,1993 Spring USA Tour,1993
+-118.2437,34.052197,1993-04-24 00:00:00+00,Los Angeles,USA,Hollywood Palladium,1993 Spring USA Tour,1993
+-122.2708,37.804398,1991-08-31 00:00:00+00,Oakland,USA,Scottish Rites Temple,1991 Summer/Fall USA/Canada Tour,1991
+-122.142996,37.441896,1999-02-21 00:00:00+00,Palo Alto,USA,Edge,1999 West Coast USA Tour,1999
+-122.636699,38.232395,1991-08-30 00:00:00+00,Petaluma,USA,Phoenix Theater,1991 Summer/Fall USA/Canada Tour,1991
+-117.752297,34.055298,1988-05-22 00:00:00+00,Pomona,USA,Elks Lodge,1988 Spring USA Tour,1988
+-117.752297,34.055298,1999-03-07 00:00:00+00,Pomona,USA,Glasshouse,1999 West Coast USA Tour,1999
+-118.499526,34.199146,1990-05-16 00:00:00+00,Reseda,USA,Country Club,1990 Spring/Summer USA Tour,1990
+-118.501906,34.194387,1990-05-17 00:00:00+00,Reseda,USA,Country Club,1990 Spring/Summer USA Tour,1990
+-121.494397,38.581598,1991-09-03 00:00:00+00,Sacramento,USA,One Edge Up,1991 Summer/Fall USA/Canada Tour,1991
+-121.494397,38.581598,1995-11-04 00:00:00+00,Sacramento,USA,Grind,1995 Fall USA/Canada Tour,1995
+-121.494397,38.581598,1993-05-02 00:00:00+00,Sacramento,USA,Crest Theater,1993 Spring USA Tour,1993
+-121.494397,38.581598,1999-02-24 00:00:00+00,Sacramento,USA,Crest Theater,1999 West Coast USA Tour,1999
+-117.1573,32.715299,1995-11-10 00:00:00+00,San Diego,USA,Soma,1995 Fall USA/Canada Tour,1995
+-117.1573,32.715299,1993-04-26 00:00:00+00,San Diego,USA,SOMA,1993 Spring USA Tour,1993
+-122.419399,37.774898,1995-11-05 00:00:00+00,San Francisco,USA,Trocadero Transfer,1995 Fall USA/Canada Tour,1995
+-122.419399,37.774898,1995-11-06 00:00:00+00,San Francisco,USA,Trocadero Transfer,1995 Fall USA/Canada Tour,1995
+-122.419399,37.774898,1999-02-22 00:00:00+00,San Francisco,USA,Maritime,1999 West Coast USA Tour,1999
+-122.419399,37.774898,1993-05-01 00:00:00+00,San Francisco,USA,Fort Mason Pier C,1993 Spring USA Tour,1993
+-122.419399,37.774898,1989-05-21 00:00:00+00,San Francisco,USA,Women's Building,1989 Spring USA Tour,1989
+-122.419399,37.774898,2000-06-04 00:00:00+00,San Francisco,USA,Delores Park,2000 Summer/Fall Regional Dates,2000
+-122.419399,37.774898,1990-05-19 00:00:00+00,San Francisco,USA,Russian Theater,1990 Spring/Summer USA Tour,1990
+-119.698197,34.420799,1993-04-27 00:00:00+00,Santa Barbara,USA,Anaconda,1993 Spring USA Tour,1993
+-119.293198,34.278297,1999-02-19 00:00:00+00,Ventura,USA,Ventura Theater,1999 West Coast USA Tour,1999
+-117.291197,34.536098,1999-03-06 00:00:00+00,Victorville,USA,Fly Theater,1999 West Coast USA Tour,1999
+-121.7569,36.910197,1993-04-28 00:00:00+00,Watsonville,USA,Veteran's Memorial Hall,1993 Spring USA Tour,1993
+-121.7569,36.910197,1999-02-20 00:00:00+00,Watsonville,USA,Veteran&#x27;s Memorial Hall,1999 West Coast USA Tour,1999
+-104.821397,38.8339,2001-04-07 00:00:00+00,Colorado Springs,USA,Colorado Music Hall,2001 Spring Western USA Tour,2001
+-104.9847,39.739198,2001-04-05 00:00:00+00,Denver,USA,Ogden Theater,2001 Spring Western USA Tour,2001
+-104.9847,39.739198,1991-09-13 00:00:00+00,Denver,USA,Gothic Theater,1991 Summer/Fall USA/Canada Tour,1991
+-104.9847,39.739198,1990-06-08 00:00:00+00,Denver,USA,Atzlan Theater,1990 Spring/Summer USA Tour,1990
+-104.9847,39.739198,1993-05-18 00:00:00+00,Denver,USA,Mammoth Events Center,1993 Spring USA Tour,1993
+-104.9847,39.739198,1995-10-22 00:00:00+00,Denver,USA,Mammoth Events Center,1995 Fall USA/Canada Tour,1995
+-104.9847,39.739198,2001-04-06 00:00:00+00,Denver,USA,Ogden Theater,2001 Spring Western USA Tour,2001
+-72.685097,41.763695,1995-04-07 00:00:00+00,Hartford,USA,West Indian Social Club,1995 USA East Coast Tour,1995
+-72.928201,41.308201,1992-04-13 00:00:00+00,New Haven,USA,Rockbar,1992 Spring East Coast Tour,1992
+-73.407898,41.117597,1989-04-07 00:00:00+00,Norwalk,USA,Anthrax,1989 Spring USA Tour,1989
+-73.407898,41.117597,1987-12-05 00:00:00+00,Norwalk,USA,Anthrax,1987 Fall/Winter Regional Dates,1987
+-73.407898,41.117597,1989-10-07 00:00:00+00,Norwalk,USA,Anthrax,1989 Canada/NE Tour,1989
+-72.249501,41.808396,1991-03-07 00:00:00+00,Storrs,USA,University of Connecticut,1991 Winter/Spring East Coast USA Tour,1991
+-72.249501,41.808396,1993-09-18 00:00:00+00,Storrs,USA,University of Connecticut Fieldhouse,1993 Fall USA/Canda Tour,1993
+-72.650699,41.5623,1988-04-15 00:00:00+00,Wesleyan,USA,Wesleyan University Eclectic House,1988 Spring USA Tour,1988
+-72.650699,41.5623,1989-04-08 00:00:00+00,Wesleyan,USA,Wesleyan University Eclectic House,1989 Spring USA Tour,1989
+-72.650699,41.5623,1987-12-04 00:00:00+00,Wesleyan,USA,Wesleyan University Eclectic House,1987 Fall/Winter Regional Dates,1987
+-77.036397,38.895097,1993-03-21 00:00:00+00,Washington,USA,Freedom Plaza,1993 Winter/Spring Regional Dates,1993
+-77.036397,38.895097,1987-09-03 00:00:00+00,Washington,USA,Wilson Center,1987 Fall/Winter Regional Dates,1987
+-77.036397,38.895097,1993-08-07 00:00:00+00,Washington,USA,Sylvan Theater,1993 Fall/Winter Regional Dates,1993
+-77.036397,38.895097,1993-08-09 00:00:00+00,Washington,USA,Fort Reno,1993 Fall/Winter Regional Dates,1993
+-77.036397,38.895097,1994-06-03 00:00:00+00,Washington,USA,Pirate House / Brendan's Going Away Party,1994 Summer Regional Dates,1994
+-77.036397,38.895097,1994-08-04 00:00:00+00,Washington,USA,Fort Reno,1994 Summer Regional Dates,1994
+-77.036385,38.895085,1994-11-27 00:00:00+00,Washington,USA,9:30 Club,1994 Fall/Winter Regional Dates,1994
+-77.036456,38.895109,1994-11-29 00:00:00+00,Washington,USA,Black Cat,1994 Fall/Winter Regional Dates,1994
+-77.036456,38.895109,1996-01-30 00:00:00+00,Washington,USA,Black Cat,1996 Winter/Spring Regional Dates,1996
+-77.036409,38.895085,1996-01-31 00:00:00+00,Washington,USA,9:30 Club,1996 Winter/Spring Regional Dates,1996
+-77.036433,38.895133,1996-04-19 00:00:00+00,Washington,USA,First Baptist Church,1996 Spring/Summer Regional Dates,1996
+-77.036409,38.895085,1996-08-15 00:00:00+00,Washington,USA,Fort Reno,1996 Spring/Summer Regional Dates,1996
+-77.036409,38.895061,1996-09-29 00:00:00+00,Washington,USA,Malcolm X Park,1996 Spring/Summer Regional Dates,1996
+-77.036385,38.895085,1997-08-29 00:00:00+00,Washington,USA,Fort Reno,1997 Summer/Fall Regional Dates,1997
+-77.036409,38.895061,1997-09-03 00:00:00+00,Washington,USA,Wilson Center,1997 Summer/Fall Regional Dates,1997
+-77.036456,38.895133,1998-07-30 00:00:00+00,Washington,USA,Fort Reno,1998 Summer/Fall Regional Dates,1998
+-77.036409,38.895085,1998-07-31 00:00:00+00,Washington,USA,Sanctuary Theater,1998 Summer/Fall Regional Dates,1998
+-77.033744,38.89518,1998-12-03 00:00:00+00,Washington,USA,Sanctuary Theater,1998 Fall/Winter Regional Dates,1998
+-77.036504,38.895109,1999-08-26 00:00:00+00,Washington,USA,Fort Reno,1999 Summer/Fall Regional Dates,1999
+-77.036455,38.895107,1999-12-05 00:00:00+00,Washington,USA,9:30 Club,1999 Fall/Winter Southern USA Tour,1999
+-77.036441,38.895121,2000-06-27 00:00:00+00,Washington,USA,Smithsonian Folklife Festival / National Mall,2000 Summer/Fall Regional Dates,2000
+-77.036434,38.895099,2000-08-07 00:00:00+00,Washington,USA,Fort Reno,2000 Summer/Fall Regional Dates,2000
+-77.036441,38.895107,1987-09-26 00:00:00+00,Washington,USA,St. Stephen's Church Cafeteria,1987 Fall/Winter Regional Dates,1987
+-77.03643,38.895117,1987-10-16 00:00:00+00,Washington,USA,dc space,1987 Fall/Winter Regional Dates,1987
+-77.036455,38.895107,1987-12-03 00:00:00+00,Washington,USA,Wilson Center,1987 Fall/Winter Regional Dates,1987
+-77.036441,38.895114,1987-12-28 00:00:00+00,Washington,USA,dc space,1987 Fall/Winter Regional Dates,1987
+-77.036434,38.895096,1988-03-03 00:00:00+00,Washington,USA,Wilson Center,1988 Winter/Spring Regional Dates,1988
+-77.036427,38.895096,1988-03-30 00:00:00+00,Washington,USA,dc space,1988 Winter/Spring Regional Dates,1988
+-77.036427,38.895103,1988-05-01 00:00:00+00,Washington,USA,Lafayette Park,1988 Spring USA Tour,1988
+-77.03643,38.89511,1988-06-15 00:00:00+00,Washington,USA,9:30 Club,1988 Summer/Fall Regional Dates,1988
+-77.036437,38.895114,1988-07-18 00:00:00+00,Washington,USA,Fort Reno,1988 Summer/Fall Regional Dates,1988
+-77.036437,38.895107,1988-07-28 00:00:00+00,Washington,USA,Wilson Center,1988 Summer/Fall Regional Dates,1988
+-77.036437,38.895103,1988-08-01 00:00:00+00,Washington,USA,dc space,1988 Summer/Fall Regional Dates,1988
+-77.036437,38.895099,1988-09-11 00:00:00+00,Washington,USA,Dupont Circle,1988 Summer/Fall Regional Dates,1988
+-77.036434,38.89511,1988-10-06 00:00:00+00,Washington,USA,9:30 Club,1988 Summer/Fall Regional Dates,1988
+-77.036452,38.895103,1989-01-26 00:00:00+00,Washington,USA,9:30 Club,1989 Winter/Spring Regional Dates,1989
+-77.036452,38.89511,2001-04-25 00:00:00+00,Washington,USA,9:30 Club,2001 Spring/Summer Regional Dates,2001
+-77.036423,38.895114,2001-04-27 00:00:00+00,Washington,USA,Sacred Heart Church Hall,2001 Spring/Summer Regional Dates,2001
+-77.036427,38.895099,1989-03-24 00:00:00+00,Washington,USA,Wilson Center,1989 Winter/Spring Regional Dates,1989
+-77.036437,38.895103,1989-06-22 00:00:00+00,Washington,USA,Wilson Center,1989 Summer Regional Dates,1989
+-77.036441,38.895103,1989-07-19 00:00:00+00,Washington,USA,9:30 Club,1989 Summer Regional Dates,1989
+-77.03643,38.89511,1989-07-20 00:00:00+00,Washington,USA,9:30 Club,1989 Summer Regional Dates,1989
+-77.036441,38.895103,1989-08-28 00:00:00+00,Washington,USA,Fort Reno,1989 Summer Regional Dates,1989
+-77.036434,38.895099,1989-09-22 00:00:00+00,Washington,USA,All Souls Church Pierce Hall,1989 Summer Regional Dates,1989
+-77.036434,38.895107,1989-10-15 00:00:00+00,Washington,USA,Dupont Circle,1989 Fall Regional Dates,1989
+-77.036459,38.895099,1990-01-27 00:00:00+00,Washington,USA,St. Augustine's Church Hall,1990 Winter/Spring Regional Dates,1990
+-77.036448,38.895103,2001-08-13 00:00:00+00,Washington,USA,Fort Reno,2001 Fall/Winter Regional Dates,2001
+-77.036441,38.895103,1990-03-08 00:00:00+00,Washington,USA,Citadel Center,1990 Spring Southern USA Tour,1990
+-77.036441,38.895099,1990-07-06 00:00:00+00,Washington,USA,St. Augustine's Church Hall,1990 Summer Regional Dates,1990
+-77.036448,38.895103,1991-01-02 00:00:00+00,Washington,USA,9:30 Club,1991 Winter/Spring Regional Dates,1991
+-77.036444,38.895099,1991-01-03 00:00:00+00,Washington,USA,9:30 Club,1991 Winter/Spring Regional Dates,1991
+-77.036441,38.895124,1991-01-12 00:00:00+00,Washington,USA,Lafayette Park,1991 Winter/Spring Regional Dates,1991
+-77.03643,38.895107,1991-02-15 00:00:00+00,Washington,USA,Sacred Heart Church Hall,1991 Winter/Spring Regional Dates,1991
+-77.036427,38.895121,1991-04-12 00:00:00+00,Washington,USA,Sacred Heart Church Hall,1991 Spring Regional Dates,1991
+-77.03643,38.895096,1991-06-17 00:00:00+00,Washington,USA,Sacred Heart Church Hall,1991 Summer Regional Dates,1991
+-77.036427,38.895096,1991-07-28 00:00:00+00,Washington,USA,dc space,1991 Summer Regional Dates,1991
+-77.036444,38.895103,1991-07-29 00:00:00+00,Washington,USA,Fort Reno,1991 Summer Regional Dates,1991
+-77.036441,38.895117,1991-12-08 00:00:00+00,Washington,USA,dc space,1991 Fall/Winter Regional Dates,1991
+-77.036427,38.89511,1992-03-06 00:00:00+00,Washington,USA,St. Stephen's Church Hall,1992 Winter/Spring Regional Dates,1992
+-77.036444,38.89511,1992-04-03 00:00:00+00,Washington,USA,Sanctuary Theater,1992 Winter/Spring Regional Dates,1992
+-77.03643,38.895096,1992-04-04 00:00:00+00,Washington,USA,Sanctuary Theater,1992 Winter/Spring Regional Dates,1992
+-77.036366,38.895089,1992-10-23 00:00:00+00,Washington,USA,Sanctuary Theater,1992 Summer/Fall Regional Dates,1992
+-77.036441,38.89511,1988-12-29 00:00:00+00,Washington,USA,Wilson Center,1988 Fall/Winter Regional Dates,1988
+-77.03643,38.89511,1992-07-25 00:00:00+00,Washington,USA,US Capitol Plaza Supreme Court,1992 Summer/Fall Regional Dates,1992
+-77.036441,38.895128,2002-07-01 00:00:00+00,Washington,USA,Fort Reno,2002 Summer/Fall Regional Dates,2002
+-77.036434,38.895085,1995-09-16 00:00:00+00,Washington,USA,Sylvan Theater,1995 Fall USA/Canada Tour,1995
+-75.7497,39.683697,1995-04-14 00:00:00+00,Newark,USA,University of Delaware Carpenter Hall,1995 USA East Coast Tour,1995
+-75.075997,38.720998,1993-09-29 00:00:00+00,Rehoboth Beach,USA,Strand,1993 Fall USA/Canda Tour,1993
+-80.143398,26.122297,1993-02-14 00:00:00+00,Fort Lauderdale,USA,Edge,1993 Winter Southern USA Tour,1993
+-80.143398,26.122297,2000-01-18 00:00:00+00,Fort Lauderdale,USA,Chili Pepper,2000 Winter Southern USA Tour,2000
+-80.143398,26.122297,1996-04-02 00:00:00+00,Fort Lauderdale,USA,Edge,1996 Southern USA Tour,1996
+-82.324799,29.651598,1993-02-17 00:00:00+00,Gainesville,USA,Florida Theater,1993 Winter Southern USA Tour,1993
+-82.324799,29.651598,2000-01-15 00:00:00+00,Gainesville,USA,Brick City,2000 Winter Southern USA Tour,2000
+-82.324799,29.651598,1989-05-06 00:00:00+00,Gainesville,USA,American Legion Hall,1989 Spring USA Tour,1989
+-82.324799,29.651598,1991-05-18 00:00:00+00,Gainesville,USA,Club Demolition,1991 Spring USA Tour,1991
+-82.324799,29.651598,1990-03-16 00:00:00+00,Gainesville,USA,American Legion Hall,1990 Spring Southern USA Tour,1990
+-81.655698,30.332198,1996-03-31 00:00:00+00,Jacksonville,USA,Milk Bar,1996 Southern USA Tour,1996
+-81.655698,30.332198,1993-02-12 00:00:00+00,Jacksonville,USA,Club 5,1993 Winter Southern USA Tour,1993
+-81.655698,30.332198,1991-05-14 00:00:00+00,Jacksonville,USA,Milk Bar,1991 Spring USA Tour,1991
+-80.193699,25.774296,1991-05-16 00:00:00+00,Miami,USA,Cameo Theater,1991 Spring USA Tour,1991
+-81.379197,28.538296,1990-03-17 00:00:00+00,Orlando,USA,Beacham Theater,1990 Spring Southern USA Tour,1990
+-81.379197,28.538296,2000-01-16 00:00:00+00,Orlando,USA,Firestone,2000 Winter Southern USA Tour,2000
+-81.379197,28.538296,1996-04-01 00:00:00+00,Orlando,USA,Firestone,1996 Southern USA Tour,1996
+-81.379197,28.538296,1993-02-13 00:00:00+00,Orlando,USA,Edge,1993 Winter Southern USA Tour,1993
+-81.379197,28.538296,1991-05-17 00:00:00+00,Orlando,USA,Beacham Theater,1991 Spring USA Tour,1991
+-87.216899,30.4213,1990-03-19 00:00:00+00,Pensacola,USA,Nite Owl,1990 Spring Southern USA Tour,1990
+-87.216899,30.4213,1991-05-20 00:00:00+00,Pensacola,USA,Nite Owl,1991 Spring USA Tour,1991
+-84.280697,30.438298,2000-01-20 00:00:00+00,Tallahassee,USA,Moon,2000 Winter Southern USA Tour,2000
+-82.458401,27.947497,1993-02-16 00:00:00+00,Tampa,USA,Ritz,1993 Winter Southern USA Tour,1993
+-82.458401,27.947497,2000-01-19 00:00:00+00,Tampa,USA,Masquerade,2000 Winter Southern USA Tour,2000
+-82.458401,27.947497,1996-04-03 00:00:00+00,Tampa,USA,Masquerade,1996 Southern USA Tour,1996
+-82.458401,27.947497,1991-05-15 00:00:00+00,Tampa,USA,Ritz,1991 Spring USA Tour,1991
+-83.3779,33.960998,1988-06-03 00:00:00+00,Athens,USA,40 Watt,1988 Spring USA Tour,1988
+-83.3779,33.960998,1991-05-11 00:00:00+00,Athens,USA,40 Watt,1991 Spring USA Tour,1991
+-83.3779,33.960998,1996-03-26 00:00:00+00,Athens,USA,40 Watt,1996 Southern USA Tour,1996
+-83.3779,33.960998,1993-02-19 00:00:00+00,Athens,USA,40 Watt,1993 Winter Southern USA Tour,1993
+-83.3779,33.960998,1999-12-18 00:00:00+00,Athens,USA,40 Watt,1999 Fall/Winter Southern USA Tour,1999
+-83.3779,33.960998,1989-05-03 00:00:00+00,Athens,USA,40 Watt,1989 Spring USA Tour,1989
+-83.3779,33.960998,1990-03-14 00:00:00+00,Athens,USA,40 Watt,1990 Spring Southern USA Tour,1990
+-83.3779,33.960998,1993-02-18 00:00:00+00,Athens,USA,40 Watt,1993 Winter Southern USA Tour,1993
+-84.387996,33.749,1999-12-17 00:00:00+00,Atlanta,USA,Masquerade,1999 Fall/Winter Southern USA Tour,1999
+-84.387996,33.749,1988-06-04 00:00:00+00,Atlanta,USA,First Existentialist Church,1988 Spring USA Tour,1988
+-84.387996,33.749,1996-03-28 00:00:00+00,Atlanta,USA,Masquerade,1996 Southern USA Tour,1996
+-84.387996,33.749,1989-05-05 00:00:00+00,Atlanta,USA,Excelsior Mill,1989 Spring USA Tour,1989
+-84.387996,33.749,1996-03-29 00:00:00+00,Atlanta,USA,Masquerade,1996 Southern USA Tour,1996
+-84.387996,33.749,1990-03-15 00:00:00+00,Atlanta,USA,Masquerade,1990 Spring Southern USA Tour,1990
+-84.387996,33.749,1993-02-09 00:00:00+00,Atlanta,USA,Masquerade,1993 Winter Southern USA Tour,1993
+-84.387996,33.749,1993-02-10 00:00:00+00,Atlanta,USA,Masquerade,1993 Winter Southern USA Tour,1993
+-84.387996,33.749,1991-05-12 00:00:00+00,Atlanta,USA,Masquerade,1991 Spring USA Tour,1991
+-81.0998,32.083496,2000-01-14 00:00:00+00,Savannah,USA,River Rock,2000 Winter Southern USA Tour,2000
+-81.0998,32.083496,1996-03-30 00:00:00+00,Savannah,USA,Zoo,1996 Southern USA Tour,1996
+-81.0998,32.083496,1993-02-11 00:00:00+00,Savannah,USA,Knights of Columbus Hall,1993 Winter Southern USA Tour,1993
+-81.0998,32.083496,1991-05-13 00:00:00+00,Savannah,USA,Sun,1991 Spring USA Tour,1991
+-157.858299,21.306899,1991-11-18 00:00:00+00,Honolulu,USA,University of Hawaii,1991 Australia/New Zealand/Japan Tour,1991
+-157.858299,21.306899,1993-12-14 00:00:00+00,Honolulu,USA,After Dark,1993 Japan/Australia/New Zealand Tour,1993
+-157.858299,21.306899,1996-10-16 00:00:00+00,Honolulu,USA,Groove,1996 US/Japan/Hong Kong/Australia Tour,1996
+-156.469999,20.894698,1996-10-17 00:00:00+00,Maui,USA,Maui Cultural Center,1996 US/Japan/Hong Kong/Australia Tour,1996
+-156.469999,20.894698,1996-10-18 00:00:00+00,Maui,USA,Maui Cultural Center,1996 US/Japan/Hong Kong/Australia Tour,1996
+-93.619899,42.034698,1995-10-17 00:00:00+00,Ames,USA,Hunky Dory's,1995 Fall USA/Canada Tour,1995
+-93.609098,41.600495,1998-11-16 00:00:00+00,Des Moines,USA,Safari Club,1998 Fall Mid-West USA Tour,1998
+-93.609098,41.600495,1993-05-22 00:00:00+00,Des Moines,USA,Hairy Mary's,1993 Spring USA Tour,1993
+-91.530198,41.661095,1993-08-29 00:00:00+00,Iowa City,USA,I.M.U. Lounge / University of Iowa,1993 Fall USA/Canda Tour,1993
+-116.203501,43.613497,1995-10-25 00:00:00+00,Boise,USA,Bogie's,1995 Fall USA/Canada Tour,1995
+-116.203501,43.613497,1993-05-15 00:00:00+00,Boise,USA,Boise State University Jordan Ballroom,1993 Spring USA Tour,1993
+-89.216799,37.727297,1993-08-24 00:00:00+00,Carbondale,USA,Southern Illinois University,1993 Fall USA/Canda Tour,1993
+-88.243399,40.116399,1991-06-06 00:00:00+00,Champaign,USA,Lancer Hall YMCA,1991 Spring USA Tour,1991
+-88.243399,40.116399,1989-06-07 00:00:00+00,Champaign,USA,Lancer Hall YMCA,1989 Spring USA Tour,1989
+-87.650099,41.849996,1989-06-10 00:00:00+00,Chicago,USA,Club Dreamerz,1989 Spring USA Tour,1989
+-87.650099,41.849996,1991-08-08 00:00:00+00,Chicago,USA,Vic Theater,1991 Summer/Fall USA/Canada Tour,1991
+-87.650099,41.849996,1993-05-28 00:00:00+00,Chicago,USA,Oak Theater,1993 Spring USA Tour,1993
+-87.650099,41.849996,2001-06-24 00:00:00+00,Chicago,USA,Congress Theater,2001 Summer Mid-West/Canada Tour,2001
+-87.650099,41.849996,1993-05-29 00:00:00+00,Chicago,USA,Oak Theater,1993 Spring USA Tour,1993
+-87.650099,41.849996,2001-06-23 00:00:00+00,Chicago,USA,Congress Theater,2001 Summer Mid-West/Canada Tour,2001
+-87.650099,41.849996,1998-05-08 00:00:00+00,Chicago,USA,Congress Theater,1998 Spring USA Tour,1998
+-87.650099,41.849996,1993-09-03 00:00:00+00,Chicago,USA,Aragon Ballroom,1993 Fall USA/Canda Tour,1993
+-87.650099,41.849996,1988-05-08 00:00:00+00,Chicago,USA,Club Dreamerz,1988 Spring USA Tour,1988
+-87.650099,41.849996,1995-10-10 00:00:00+00,Chicago,USA,Rainbo Roller Rink,1995 Fall USA/Canada Tour,1995
+-87.650099,41.849996,1990-06-14 00:00:00+00,Chicago,USA,Medusa,1990 Spring/Summer USA Tour,1990
+-87.650099,41.849996,1998-05-07 00:00:00+00,Chicago,USA,Congress Theater,1998 Spring USA Tour,1998
+-88.9906,40.514197,1993-09-01 00:00:00+00,Normal,USA,Illinois State University Student Center Ballroom,1993 Fall USA/Canda Tour,1993
+-89.588998,40.693696,1995-10-09 00:00:00+00,Peoria,USA,Expo Gardens,1995 Fall USA/Canada Tour,1995
+-89.093998,42.271097,1989-06-08 00:00:00+00,Rockford,USA,VFW Hall,1989 Spring USA Tour,1989
+-85.759997,38.296698,1988-05-07 00:00:00+00,Clarksville,USA,Sports Complex,1988 Spring USA Tour,1988
+-86.158001,39.768398,2001-04-20 00:00:00+00,Indianapolis,USA,Knights of Columbus Hall,2001 Spring Western USA Tour,2001
+-86.158001,39.768398,1993-05-30 00:00:00+00,Indianapolis,USA,City Lights,1993 Spring USA Tour,1993
+-86.158001,39.768398,1995-10-06 00:00:00+00,Indianapolis,USA,Eastwood Entertainment Center,1995 Fall USA/Canada Tour,1995
+-86.158001,39.768398,1991-06-07 00:00:00+00,Indianapolis,USA,Ritz Music Hall,1991 Spring USA Tour,1991
+-94.6275,39.114198,1993-08-28 00:00:00+00,Kansas City,USA,Memorial Hall,1993 Fall USA/Canda Tour,1993
+-95.235297,38.971696,1990-06-11 00:00:00+00,Lawrence,USA,Outhouse,1990 Spring/Summer USA Tour,1990
+-95.235297,38.971696,1989-06-04 00:00:00+00,Lawrence,USA,Outhouse,1989 Spring USA Tour,1989
+-95.235297,38.971696,1991-05-31 00:00:00+00,Lawrence,USA,University of Kansas Ballroom,1991 Spring USA Tour,1991
+-94.819099,38.881398,1998-11-18 00:00:00+00,Olathe,USA,Gee Coffee,1998 Fall Mid-West USA Tour,1998
+-84.4777,37.988697,1991-06-09 00:00:00+00,Lexington,USA,Wrocklage,1991 Spring USA Tour,1991
+-85.759401,38.254197,1998-11-27 00:00:00+00,Louisville,USA,Highland Hall,1998 Fall Mid-West USA Tour,1998
+-85.759401,38.254197,1995-10-07 00:00:00+00,Louisville,USA,Brewery,1995 Fall USA/Canada Tour,1995
+-85.759401,38.254197,2002-04-04 00:00:00+00,Louisville,USA,Spectrum Cultural Center,2002 Spring Southern USA/Texas Tour,2002
+-85.759401,38.254197,1990-06-26 00:00:00+00,Louisville,USA,Kentucky Theater,1990 Spring/Summer USA Tour,1990
+-85.759401,38.254197,1991-06-08 00:00:00+00,Louisville,USA,Tewligans,1991 Spring USA Tour,1991
+-92.0198,30.2241,1989-05-09 00:00:00+00,Lafayette,USA,Haricots BBQ,1989 Spring USA Tour,1989
+-92.0198,30.2241,1996-04-07 00:00:00+00,Lafayette,USA,Heymann Performance Arts Center,1996 Southern USA Tour,1996
+-90.075097,29.954696,2002-03-27 00:00:00+00,New Orleans,USA,Tipitina's,2002 Spring Southern USA/Texas Tour,2002
+-90.075097,29.954696,1990-03-21 00:00:00+00,New Orleans,USA,Storyville,1990 Spring Southern USA Tour,1990
+-90.075097,29.954696,1996-04-05 00:00:00+00,New Orleans,USA,Tipitina's,1996 Southern USA Tour,1996
+-90.075097,29.954696,1993-04-09 00:00:00+00,New Orleans,USA,New Orleans Music Hall,1993 Spring USA Tour,1993
+-72.505096,42.3404,1991-03-09 00:00:00+00,Amherst,USA,University of Massachusetts,1991 Winter/Spring East Coast USA Tour,1991
+-71.0598,42.358397,1991-03-17 00:00:00+00,Boston,USA,Channel,1991 Winter/Spring East Coast USA Tour,1991
+-71.0598,42.358397,1990-04-20 00:00:00+00,Boston,USA,Mass Art Gymnasium,1990 Spring NE USA Tour,1990
+-71.0598,42.358397,2002-04-20 00:00:00+00,Boston,USA,Mass Art Gymnasium,2002 Spring East Coast Tour,2002
+-71.0598,42.358397,2002-04-19 00:00:00+00,Boston,USA,Mass Art Gymnasium,2002 Spring East Coast Tour,2002
+-71.0598,42.358397,1988-04-16 00:00:00+00,Boston,USA,Green Street Station,1988 Spring USA Tour,1988
+-71.1056,42.375099,1989-10-06 00:00:00+00,Cambridge,USA,First Congregational Church,1989 Canada/NE Tour,1989
+-71.682897,42.416798,1997-05-05 00:00:00+00,Clinton,USA,St. John's Gym,1997 East Coast USA Tour,1997
+-71.802297,42.5834,1993-09-17 00:00:00+00,Fitchburg,USA,Wallace Civic Center,1993 Fall USA/Canda Tour,1993
+-72.616198,42.204298,2002-04-18 00:00:00+00,Holyoke,USA,Holyoke War Memorial,2002 Spring East Coast Tour,2002
+-72.641199,42.325096,1990-04-14 00:00:00+00,Northampton,USA,Pearl Street Ballroom,1990 Spring NE USA Tour,1990
+-72.641199,42.325096,1995-09-22 00:00:00+00,Northampton,USA,Pearl Street Ballroom,1995 Fall USA/Canada Tour,1995
+-71.802297,42.262596,1991-03-16 00:00:00+00,Worcester,USA,WAG,1991 Winter/Spring East Coast USA Tour,1991
+-71.802297,42.262596,1992-04-11 00:00:00+00,Worcester,USA,Heart of the Commonwealth Theater,1992 Spring East Coast Tour,1992
+-76.4922,38.978499,1988-02-06 00:00:00+00,Annapolis,USA,Unitarian Church,1988 Winter/Spring Regional Dates,1988
+-76.612201,39.290398,1995-03-02 00:00:00+00,Baltimore,USA,University of Maryland Baltimore,1995 Spring Regional Dates,1995
+-76.612201,39.290398,1998-05-12 00:00:00+00,Baltimore,USA,Teamsters Hall,1998 Spring USA Tour,1998
+-76.612201,39.290398,1990-02-11 00:00:00+00,Baltimore,USA,Studio 10,1990 Winter/Spring Regional Dates,1990
+-76.612201,39.290398,1997-04-29 00:00:00+00,Baltimore,USA,University of Maryland Baltimore,1997 Spring Regional Dates,1997
+-76.612201,39.290398,1992-10-25 00:00:00+00,Baltimore,USA,Steelworkers Hall,1992 Summer/Fall Regional Dates,1992
+-77.100296,38.980699,1987-12-02 00:00:00+00,Bethesda,USA,BCC High School,1987 Fall/Winter Regional Dates,1987
+-76.936899,38.980699,1993-04-02 00:00:00+00,College Park,USA,University of Maryland Ritchie Coliseum,1993 Spring USA Tour,1993
+-76.839399,39.240396,1990-04-27 00:00:00+00,Columbia,USA,Atholton High School Gym,1990 Spring Regional Dates,1990
+-77.410498,39.414298,1987-11-25 00:00:00+00,Frederick,USA,Weinberg Center,1987 Fall/Winter Regional Dates,1987
+-77.410498,39.414298,1990-02-16 00:00:00+00,Frederick,USA,Weinberg Center,1990 Winter/Spring Regional Dates,1990
+-77.410498,39.414298,1989-01-13 00:00:00+00,Frederick,USA,Weinberg Center,1989 Winter/Spring Regional Dates,1989
+-77.72,39.641796,1998-05-01 00:00:00+00,Hagerstown,USA,180 Club,1998 Spring USA Tour,1998
+-76.6358,38.291195,1988-07-02 00:00:00+00,Leonardtown,USA,St. Mary's County Fairgrounds Auditorium,1988 Summer/Fall Regional Dates,1988
+-79.792,36.072598,1993-02-20 00:00:00+00,Greensboro,USA,Trim Shop,1993 Winter Southern USA Tour,1993
+-77.1528,39.083998,1988-04-09 00:00:00+00,Rockville,USA,Montgomery College Fine Arts Building,1988 Winter/Spring Regional Dates,1988
+-76.545201,39.070397,2001-06-21 00:00:00+00,Severna Park,USA,Columbian Center,2001 Spring/Summer Regional Dates,2001
+-77.0261,38.990697,1994-11-20 00:00:00+00,Silver Spring,USA,Long Branch Community Center,1994 Fall/Winter Regional Dates,1994
+-70.255296,43.661497,1995-04-08 00:00:00+00,Portland,USA,"Sullivan Gym, U. of S. Maine",1995 USA East Coast Tour,1995
+-70.255296,43.661497,1991-03-15 00:00:00+00,Portland,USA,Zootz,1991 Winter/Spring East Coast USA Tour,1991
+-70.255296,43.661497,1993-09-14 00:00:00+00,Portland,USA,58 Fore St.,1993 Fall USA/Canda Tour,1993
+-70.255296,43.661497,1992-04-12 00:00:00+00,Portland,USA,Father Hayes Gym Bar,1992 Spring East Coast Tour,1992
+-70.255296,43.661497,1998-07-26 00:00:00+00,Portland,USA,Asylum,1998 Summer Canada/USA Tour,1998
+-83.7409,42.277599,1990-06-23 00:00:00+00,Ann Arbor,USA,University of Michigan Ballrooom,1990 Spring/Summer USA Tour,1990
+-83.045798,42.331402,1998-05-09 00:00:00+00,Detroit,USA,State Theater,1998 Spring USA Tour,1998
+-83.045798,42.331402,1990-06-22 00:00:00+00,Detroit,USA,St. Dominick's Church,1990 Spring/Summer USA Tour,1990
+-83.045798,42.331402,1991-08-05 00:00:00+00,Detroit,USA,Majestic Theater,1991 Summer/Fall USA/Canada Tour,1991
+-83.045798,42.331402,1995-10-01 00:00:00+00,Detroit,USA,State Theater,1995 Fall USA/Canada Tour,1995
+-84.483896,42.736997,1988-01-20 00:00:00+00,East Lansing,USA,Matt Kellys Basement,1988 Winter Michigan Dates,1988
+-83.6875,43.012499,1988-01-21 00:00:00+00,Flint,USA,"Fallout Shelter, Capitol Theatre",1988 Winter Michigan Dates,1988
+-83.6875,43.012499,1990-06-21 00:00:00+00,Flint,USA,Capitol Theater,1990 Spring/Summer USA Tour,1990
+-85.587197,42.291697,1991-08-06 00:00:00+00,Kalamazoo,USA,State Theater,1991 Summer/Fall USA/Canada Tour,1991
+-85.587197,42.291697,1990-06-24 00:00:00+00,Kalamazoo,USA,Club Soda,1990 Spring/Summer USA Tour,1990
+-83.291101,42.638901,1993-09-04 00:00:00+00,Pontiac,USA,Phoenix Plaza Ampitheater,1993 Fall USA/Canda Tour,1993
+-83.612998,42.241197,1988-01-22 00:00:00+00,Ypsilanti,USA,Eastern Michigan University,1988 Winter Michigan Dates,1988
+-93.2638,44.979999,1995-10-15 00:00:00+00,Minneapolis,USA,First Avenue,1995 Fall USA/Canada Tour,1995
+-93.2638,44.979999,1993-05-24 00:00:00+00,Minneapolis,USA,First Avenue,1993 Spring USA Tour,1993
+-93.2638,44.979999,1995-10-14 00:00:00+00,Minneapolis,USA,First Avenue,1995 Fall USA/Canada Tour,1995
+-93.2638,44.979999,1989-06-11 00:00:00+00,Minneapolis,USA,7th Street Entry,1989 Spring USA Tour,1989
+-93.2638,44.979999,1993-05-25 00:00:00+00,Minneapolis,USA,First Avenue,1993 Spring USA Tour,1993
+-93.2638,44.979999,1993-05-23 00:00:00+00,Minneapolis,USA,First Avenue,1993 Spring USA Tour,1993
+-93.2638,44.979999,1990-06-16 00:00:00+00,Minneapolis,USA,Avalon Theater,1990 Spring/Summer USA Tour,1990
+-93.2638,44.979999,1991-08-12 00:00:00+00,Minneapolis,USA,First Avenue,1991 Summer/Fall USA/Canada Tour,1991
+-93.2638,44.979999,1998-11-15 00:00:00+00,Minneapolis,USA,First Avenue,1998 Fall Mid-West USA Tour,1998
+-93.2638,44.979999,2001-06-27 00:00:00+00,Minneapolis,USA,First Avenue,2001 Summer Mid-West/Canada Tour,2001
+-92.334097,38.951696,2001-04-19 00:00:00+00,Columbia,USA,Blue Note,2001 Spring Western USA Tour,2001
+-92.334097,38.951696,1993-08-27 00:00:00+00,Columbia,USA,Blue Note,1993 Fall USA/Canda Tour,1993
+-92.334097,38.951696,1991-06-03 00:00:00+00,Columbia,USA,Blue Note,1991 Spring USA Tour,1991
+-94.578599,39.0997,2001-04-18 00:00:00+00,Kansas City,USA,El Torreon,2001 Spring Western USA Tour,2001
+-93.298198,37.215298,1991-06-02 00:00:00+00,Springfield,USA,Chestnut Hall,1991 Spring USA Tour,1991
+-90.197897,38.627298,1993-08-25 00:00:00+00,St. Louis,USA,Mississippi Nights,1993 Fall USA/Canda Tour,1993
+-90.197897,38.627298,1990-06-13 00:00:00+00,St. Louis,USA,1227 Alley,1990 Spring/Summer USA Tour,1990
+-90.197897,38.627298,1989-06-05 00:00:00+00,St. Louis,USA,Bernard's Pub,1989 Spring USA Tour,1989
+-90.197897,38.627298,1991-06-04 00:00:00+00,St. Louis,USA,Mississippi Nights,1991 Spring USA Tour,1991
+-90.197897,38.627298,1993-08-26 00:00:00+00,St. Louis,USA,Mississippi Nights,1993 Fall USA/Canda Tour,1993
+-90.197897,38.627298,1995-10-08 00:00:00+00,St. Louis,USA,Mississippi Nights,1995 Fall USA/Canada Tour,1995
+-90.197897,38.627298,1998-11-26 00:00:00+00,St. Louis,USA,Galaxy,1998 Fall Mid-West USA Tour,1998
+-2.998398,51.587699,1999-05-11 00:00:00+00,Newport,Wales,TJ's,1999 Spring UK/Ireland Tour,1999
+-89.290296,31.327099,1990-03-20 00:00:00+00,Hattiesburg,USA,Univ. of S. MS Bennett Auditorium,1990 Spring Southern USA Tour,1990
+-90.184799,32.298801,1993-04-08 00:00:00+00,Jackson,USA,Midnight Sun,1993 Spring USA Tour,1993
+-89.519297,34.366498,1996-04-10 00:00:00+00,Oxford,USA,Lafayette&#x27;s,1996 Southern USA Tour,1996
+-111.0386,45.679698,1988-05-12 00:00:00+00,Bozeman,USA,Sundance Saloon,1988 Spring USA Tour,1988
+-113.993996,46.872198,1990-06-04 00:00:00+00,Missoula,USA,Moose Lodge,1990 Spring/Summer USA Tour,1990
+-82.554001,35.600998,2002-03-24 00:00:00+00,Asheville,USA,Asheville Music Zone,2002 Spring Southern USA/Texas Tour,2002
+-79.0558,35.913198,1990-03-25 00:00:00+00,Chapel Hill,USA,Cat's Cradle,1990 Spring Southern USA Tour,1990
+-79.0558,35.913198,1991-05-03 00:00:00+00,Chapel Hill,USA,Cat's Cradle,1991 Spring USA Tour,1991
+-79.0558,35.913198,1987-09-27 00:00:00+00,Chapel Hill,USA,Cat's Cradle,1987 Fall/Winter Regional Dates,1987
+-79.0558,35.913198,1993-02-05 00:00:00+00,Chapel Hill,USA,Cat's Cradle,1993 Winter Southern USA Tour,1993
+-79.0558,35.913198,1989-05-01 00:00:00+00,Chapel Hill,USA,Cat's Cradle,1989 Spring USA Tour,1989
+-79.0558,35.913198,1988-06-05 00:00:00+00,Chapel Hill,USA,Cat's Cradle,1988 Spring USA Tour,1988
+-80.843097,35.227099,1991-05-04 00:00:00+00,Charlotte,USA,Milestone,1991 Spring USA Tour,1991
+-80.843097,35.227099,1996-03-23 00:00:00+00,Charlotte,USA,Tremont Music Hall,1996 Southern USA Tour,1996
+-80.843097,35.227099,1993-02-08 00:00:00+00,Charlotte,USA,Thirteen Thirteen,1993 Winter Southern USA Tour,1993
+-80.843097,35.227099,2000-01-13 00:00:00+00,Charlotte,USA,Tremont Music Hall,2000 Winter Southern USA Tour,2000
+-79.792,36.072598,1990-03-12 00:00:00+00,Greensboro,USA,"Sternberger Hall, Guilford College",1990 Spring Southern USA Tour,1990
+-79.792,36.072598,1991-05-02 00:00:00+00,Greensboro,USA,Miracle House,1991 Spring USA Tour,1991
+-78.638597,35.772095,1996-03-22 00:00:00+00,Raleigh,USA,Ritz,1996 Southern USA Tour,1996
+-78.638597,35.772095,2002-03-23 00:00:00+00,Raleigh,USA,Ritz,2002 Spring Southern USA/Texas Tour,2002
+-78.638597,35.772095,2000-01-12 00:00:00+00,Raleigh,USA,Ritz,2000 Winter Southern USA Tour,2000
+-77.944698,34.2257,1993-02-06 00:00:00+00,Wilmington,USA,Jacob's Run,1993 Winter Southern USA Tour,1993
+-77.944698,34.2257,1996-03-20 00:00:00+00,Wilmington,USA,Mad Monk,1996 Southern USA Tour,1996
+-80.2442,36.099898,1996-03-21 00:00:00+00,Winston-Salem,USA,Ziggy's,1996 Southern USA Tour,1996
+-96.789797,46.8772,2001-06-28 00:00:00+00,Fargo,USA,Playmaker's Pavillion,2001 Summer Mid-West/Canada Tour,2001
+-96.789797,46.8772,1991-08-13 00:00:00+00,Fargo,USA,Elks Lodge,1991 Summer/Fall USA/Canada Tour,1991
+-96.667001,40.799997,1991-09-14 00:00:00+00,Lincoln,USA,University of Nebraska Centennial Hall,1991 Summer/Fall USA/Canada Tour,1991
+-96.667001,40.799997,1995-10-18 00:00:00+00,Lincoln,USA,State Fairgrounds Agricultural Hall,1995 Fall USA/Canada Tour,1995
+-96.667001,40.799997,2001-04-17 00:00:00+00,Lincoln,USA,Centennial Hall,2001 Spring Western USA Tour,2001
+-95.937797,41.258597,1998-11-17 00:00:00+00,Omaha,USA,Sokol Hall,1998 Fall Mid-West USA Tour,1998
+-95.937797,41.258597,1990-06-10 00:00:00+00,Omaha,USA,Sokol Hall,1990 Spring/Summer USA Tour,1990
+-95.937797,41.258597,1993-05-21 00:00:00+00,Omaha,USA,Peony Park Royal Grove,1993 Spring USA Tour,1993
+-95.937797,41.258597,1989-06-03 00:00:00+00,Omaha,USA,Radial Social Hall,1989 Spring USA Tour,1989
+-70.9265,43.133996,1997-05-04 00:00:00+00,Durham,USA,University of New Hampshire M.U.B.,1997 East Coast USA Tour,1997
+-74.032397,40.743998,1991-03-06 00:00:00+00,Hoboken,USA,Maxwell's,1991 Winter/Spring East Coast USA Tour,1991
+-74.032397,40.743998,1998-07-27 00:00:00+00,Hoboken,USA,Maxwell's,1998 Summer Canada/USA Tour,1998
+-74.032397,40.743998,1995-04-13 00:00:00+00,Hoboken,USA,Maxwell's,1995 USA East Coast Tour,1995
+-74.032397,40.743998,1988-06-30 00:00:00+00,Hoboken,USA,Maxwell's,1988 Summer/Fall Regional Dates,1988
+-74.032397,40.743998,1992-04-07 00:00:00+00,Hoboken,USA,Maxwell's,1992 Spring East Coast Tour,1992
+-74.032397,40.743998,1989-04-09 00:00:00+00,Hoboken,USA,Maxwell's,1989 Spring USA Tour,1989
+-74.032397,40.743998,1989-10-08 00:00:00+00,Hoboken,USA,Maxwell's,1989 Canada/NE Tour,1989
+-74.032397,40.743998,1993-08-16 00:00:00+00,Hoboken,USA,Maxwell's,1993 Fall USA/Canda Tour,1993
+-74.451799,40.486197,1989-09-25 00:00:00+00,New Brunswick,USA,Rutgers University,1989 Canada/NE Tour,1989
+-74.6591,40.348697,1989-04-06 00:00:00+00,Princeton,USA,Princeton University Terrace Food Club,1989 Spring USA Tour,1989
+-74.742901,40.217094,1991-03-19 00:00:00+00,Trenton,USA,City Gardens,1991 Winter/Spring East Coast USA Tour,1991
+-74.742901,40.217094,1992-04-14 00:00:00+00,Trenton,USA,City Gardens,1992 Spring East Coast Tour,1992
+-74.742901,40.217094,1993-08-17 00:00:00+00,Trenton,USA,City Gardens,1993 Fall USA/Canda Tour,1993
+-74.742901,40.217094,1993-08-18 00:00:00+00,Trenton,USA,City Gardens,1993 Fall USA/Canda Tour,1993
+-106.6511,35.084495,2001-04-08 00:00:00+00,Albuquerque,USA,Sunshine Music Hall,2001 Spring Western USA Tour,2001
+-106.6511,35.084495,1991-09-11 00:00:00+00,Albuquerque,USA,Sunshine Music Hall,1991 Summer/Fall USA/Canada Tour,1991
+-106.6511,35.084495,1995-11-13 00:00:00+00,Albuquerque,USA,Five Points Hall,1995 Fall USA/Canada Tour,1995
+-115.137197,36.174996,1993-04-22 00:00:00+00,Las Vegas,USA,Huntridge Theater,1993 Spring USA Tour,1993
+-115.137197,36.174996,1999-03-05 00:00:00+00,Las Vegas,USA,Huntridge Theater,1999 West Coast USA Tour,1999
+-119.813797,39.529598,1999-02-23 00:00:00+00,Reno,USA,Del Mar Station,1999 West Coast USA Tour,1999
+-73.756199,42.652596,1993-09-20 00:00:00+00,Albany,USA,S.U.N.Y. Albany,1993 Fall USA/Canda Tour,1993
+-75.918,42.0987,1993-09-22 00:00:00+00,Binghamton,USA,S.U.N.Y. Binghamton,1993 Fall USA/Canda Tour,1993
+-78.878398,42.886498,1991-03-11 00:00:00+00,Buffalo,USA,Buffalo State College,1991 Winter/Spring East Coast USA Tour,1991
+-78.878398,42.886498,1993-09-06 00:00:00+00,Buffalo,USA,Blind Mellons,1993 Fall USA/Canda Tour,1993
+-73.766609,42.75283,1992-04-09 00:00:00+00,Latham,USA,Saratoga Winners,1992 Spring East Coast Tour,1992
+-73.767799,42.753425,1991-03-10 00:00:00+00,Latham,USA,Saratoga Winners,1991 Winter/Spring East Coast USA Tour,1991
+-73.373499,40.686794,1995-09-21 00:00:00+00,Lindenhurst,USA,PWAC,1995 Fall USA/Canada Tour,1995
+-73.882398,40.666799,1997-05-01 00:00:00+00,New York,USA,Palladium,1997 East Coast USA Tour,1997
+-73.882398,40.666799,1999-12-03 00:00:00+00,New York,USA,Roxy,1999 Fall/Winter Southern USA Tour,1999
+-73.882398,40.666799,1989-10-09 00:00:00+00,New York,USA,Barnard College Cafeteria,1989 Canada/NE Tour,1989
+-73.882398,40.666799,1993-09-25 00:00:00+00,New York,USA,Roseland Ballroom,1993 Fall USA/Canda Tour,1993
+-73.882398,40.666799,1997-05-02 00:00:00+00,New York,USA,NYU Loeb Center,1997 East Coast USA Tour,1997
+-73.882398,40.666799,1992-04-08 00:00:00+00,New York,USA,Ritz,1992 Spring East Coast Tour,1992
+-73.882398,40.666799,1993-09-24 00:00:00+00,New York,USA,Roseland Ballroom,1993 Fall USA/Canda Tour,1993
+-73.882398,40.666799,1988-03-25 00:00:00+00,New York,USA,Columbia University,1988 Winter/Spring Regional Dates,1988
+-73.882398,40.666799,1991-03-05 00:00:00+00,New York,USA,Marquee,1991 Winter/Spring East Coast USA Tour,1991
+-73.882398,40.666799,1995-04-05 00:00:00+00,New York,USA,Irving Plaza,1995 USA East Coast Tour,1995
+-73.882398,40.666799,1995-04-04 00:00:00+00,New York,USA,Irving Plaza,1995 USA East Coast Tour,1995
+-73.882398,40.666799,1995-04-03 00:00:00+00,New York,USA,Irving Plaza,1995 USA East Coast Tour,1995
+-73.882398,40.666799,1991-04-20 00:00:00+00,New York,USA,Columbia University,1991 Spring Regional Dates,1991
+-73.882398,40.666799,1989-04-05 00:00:00+00,New York,USA,NYU Student Union,1989 Spring USA Tour,1989
+-73.882398,40.666799,1991-03-04 00:00:00+00,New York,USA,Marquee,1991 Winter/Spring East Coast USA Tour,1991
+-73.921,41.700401,1990-04-13 00:00:00+00,Poughkeepsie,USA,Vassar College,1990 Spring NE USA Tour,1990
+-73.921,41.700401,1995-04-06 00:00:00+00,Poughkeepsie,USA,Vassar College Walker Fieldhouse,1995 USA East Coast Tour,1995
+-73.921,41.700401,1998-07-16 00:00:00+00,Poughkeepsie,USA,Chance,1998 Summer Canada/USA Tour,1998
+-77.615598,43.154799,1989-10-02 00:00:00+00,Rochester,USA,Backstreets,1989 Canada/NE Tour,1989
+-77.615598,43.154799,1995-09-28 00:00:00+00,Rochester,USA,Harro East Ballroom,1995 Fall USA/Canada Tour,1995
+-77.615598,43.154799,1998-07-18 00:00:00+00,Rochester,USA,Harro East Ballroom,1998 Summer Canada/USA Tour,1998
+-73.939598,42.814201,1989-09-26 00:00:00+00,Schenectady,USA,Eagles Lodge,1989 Canada/NE Tour,1989
+-76.147398,43.048099,1991-03-12 00:00:00+00,Syracuse,USA,Syracuse University,1991 Winter/Spring East Coast USA Tour,1991
+-76.147398,43.048099,1998-07-17 00:00:00+00,Syracuse,USA,Lost Horizon,1998 Summer Canada/USA Tour,1998
+-76.147398,43.048099,1993-09-21 00:00:00+00,Syracuse,USA,Lost Horizon,1993 Fall USA/Canda Tour,1993
+-81.519,41.081401,1990-06-28 00:00:00+00,Akron,USA,Jackie Lee's Scooterz Entertainment Center,1990 Spring/Summer USA Tour,1990
+-84.456897,39.161995,1995-10-05 00:00:00+00,Cincinnati,USA,Bogart's,1995 Fall USA/Canada Tour,1995
+-84.456897,39.161995,1991-06-10 00:00:00+00,Cincinnati,USA,Bogart's,1991 Spring USA Tour,1991
+-84.456897,39.161995,1993-08-22 00:00:00+00,Cincinnati,USA,Bogart's,1993 Fall USA/Canda Tour,1993
+-84.456897,39.161995,1998-05-06 00:00:00+00,Cincinnati,USA,Bogart's,1998 Spring USA Tour,1998
+-81.695397,41.499499,1995-10-02 00:00:00+00,Cleveland,USA,Agora Theater,1995 Fall USA/Canada Tour,1995
+-81.695397,41.499499,1998-05-05 00:00:00+00,Cleveland,USA,Agora Theater,1998 Spring USA Tour,1998
+-81.695397,41.499499,1991-06-13 00:00:00+00,Cleveland,USA,Flash's,1991 Spring USA Tour,1991
+-81.695397,41.499499,1989-06-15 00:00:00+00,Cleveland,USA,Phantasy Nightclub,1989 Spring USA Tour,1989
+-81.695397,41.499499,1993-09-05 00:00:00+00,Cleveland,USA,Nautica Stage,1993 Fall USA/Canda Tour,1993
+-82.998798,39.961198,1993-05-31 00:00:00+00,Columbus,USA,Newport,1993 Spring USA Tour,1993
+-82.998798,39.961198,1995-10-03 00:00:00+00,Columbus,USA,Newport,1995 Fall USA/Canada Tour,1995
+-82.998798,39.961198,1998-05-03 00:00:00+00,Columbus,USA,Newport,1998 Spring USA Tour,1998
+-82.998798,39.961198,1991-06-12 00:00:00+00,Columbus,USA,Newport,1991 Spring USA Tour,1991
+-84.191599,39.758996,1995-10-04 00:00:00+00,Dayton,USA,1470 West,1995 Fall USA/Canada Tour,1995
+-84.191599,39.758996,1990-06-27 00:00:00+00,Dayton,USA,Electrician's Hall,1990 Spring/Summer USA Tour,1990
+-84.191599,39.758996,1991-06-11 00:00:00+00,Dayton,USA,Electrician's Hall,1991 Spring USA Tour,1991
+-84.191599,39.758996,1993-08-21 00:00:00+00,Dayton,USA,Dayton Fest / Brookwood Island,1993 Fall USA/Canda Tour,1993
+-81.357897,41.153698,1998-05-04 00:00:00+00,Kent,USA,Kent State University,1998 Spring USA Tour,1998
+-82.2174,41.293896,1988-05-05 00:00:00+00,Oberlin,USA,Oberlin University Student Union Tavern,1988 Spring USA Tour,1988
+-83.555198,41.663896,1990-06-25 00:00:00+00,Toledo,USA,Masonic Auditorium,1990 Spring/Summer USA Tour,1990
+-83.555198,41.663896,1989-06-14 00:00:00+00,Toledo,USA,Tam O'Shanter Ice Rink,1989 Spring USA Tour,1989
+-97.478097,35.652797,1991-05-30 00:00:00+00,Edmond,USA,Edmond Historical Society Preservation Hall,1991 Spring USA Tour,1991
+-97.439499,35.222596,1993-04-17 00:00:00+00,Norman,USA,Hollywood Theater,1993 Spring USA Tour,1993
+-97.516399,35.467598,1995-11-20 00:00:00+00,Oklahoma City,USA,Diamond Ballroom,1995 Fall USA/Canada Tour,1995
+-97.516399,35.467598,1998-11-19 00:00:00+00,Oklahoma City,USA,Will Rogers Hall,1998 Fall Mid-West USA Tour,1998
+-123.086798,44.052097,1990-05-26 00:00:00+00,Eugene,USA,W.O.W. Hall,1990 Spring/Summer USA Tour,1990
+-123.086798,44.052097,1993-05-04 00:00:00+00,Eugene,USA,W.O.W. Hall,1993 Spring USA Tour,1993
+-122.676197,45.523497,1991-08-27 00:00:00+00,Portland,USA,Melody Ballroom,1991 Summer/Fall USA/Canada Tour,1991
+-122.676197,45.523497,1999-02-26 00:00:00+00,Portland,USA,Crystal Ballroom,1999 West Coast USA Tour,1999
+-122.676197,45.523497,1993-05-05 00:00:00+00,Portland,USA,Melody Ballroom,1993 Spring USA Tour,1993
+-122.676197,45.523497,1990-05-31 00:00:00+00,Portland,USA,Pine Street Theater,1990 Spring/Summer USA Tour,1990
+-122.676197,45.523497,1995-11-02 00:00:00+00,Portland,USA,La Luna,1995 Fall USA/Canada Tour,1995
+-123.021998,44.0462,1999-03-02 00:00:00+00,Springfield,USA,McKensie Ballroom,1999 West Coast USA Tour,1999
+-77.188897,40.201499,1988-02-13 00:00:00+00,Carlisle,USA,Dickinson College,1988 Winter/Spring Regional Dates,1988
+-76.3055,40.037895,1989-09-24 00:00:00+00,Lancaster,USA,Chameleon,1989 Canada/NE Tour,1989
+-76.3055,40.037895,1991-03-03 00:00:00+00,Lancaster,USA,Chameleon,1991 Winter/Spring East Coast USA Tour,1991
+-77.0086,40.214298,1993-08-19 00:00:00+00,Mechanicsburg,USA,Decibels,1993 Fall USA/Canda Tour,1993
+-75.163799,39.952298,1995-04-01 00:00:00+00,Philadelphia,USA,Trocadero,1995 USA East Coast Tour,1995
+-75.163799,39.952298,1995-04-02 00:00:00+00,Philadelphia,USA,Trocadero,1995 USA East Coast Tour,1995
+-75.163799,39.952298,1988-08-07 00:00:00+00,Philadelphia,USA,YMCA,1988 Summer/Fall Regional Dates,1988
+-75.163799,39.952298,1993-09-28 00:00:00+00,Philadelphia,USA,Trocadero,1993 Fall USA/Canda Tour,1993
+-75.163799,39.952298,1992-04-06 00:00:00+00,Philadelphia,USA,Trocadero,1992 Spring East Coast Tour,1992
+-75.163799,39.952298,1991-03-02 00:00:00+00,Philadelphia,USA,Drexel University,1991 Winter/Spring East Coast USA Tour,1991
+-75.163799,39.952298,1999-12-04 00:00:00+00,Philadelphia,USA,Electric Factory,1999 Fall/Winter Southern USA Tour,1999
+-75.163799,39.952298,1989-09-23 00:00:00+00,Philadelphia,USA,Drexel University,1989 Canada/NE Tour,1989
+-75.163799,39.952298,1993-09-27 00:00:00+00,Philadelphia,USA,Trocadero,1993 Fall USA/Canda Tour,1993
+-75.163799,39.952298,1997-05-03 00:00:00+00,Philadelphia,USA,Electric Factory,1997 East Coast USA Tour,1997
+-79.995898,40.4406,1995-09-29 00:00:00+00,Pittsburgh,USA,Metropol,1995 Fall USA/Canada Tour,1995
+-79.995898,40.4406,1991-06-14 00:00:00+00,Pittsburgh,USA,Metropol,1991 Spring USA Tour,1991
+-79.995898,40.4406,2001-04-21 00:00:00+00,Pittsburgh,USA,Carnegie Mellon University,2001 Spring Western USA Tour,2001
+-79.995898,40.4406,1998-05-02 00:00:00+00,Pittsburgh,USA,Carnegie Mellon University,1998 Spring USA Tour,1998
+-79.995898,40.4406,1989-06-16 00:00:00+00,Pittsburgh,USA,Sonic Temple,1989 Spring USA Tour,1989
+-79.995898,40.4406,1993-08-20 00:00:00+00,Pittsburgh,USA,Metropol,1993 Fall USA/Canda Tour,1993
+-79.995898,40.4406,1990-06-29 00:00:00+00,Pittsburgh,USA,Upstage Lounge,1990 Spring/Summer USA Tour,1990
+-77.859997,40.793396,1993-09-26 00:00:00+00,State College,USA,Penn State Hub,1993 Fall USA/Canda Tour,1993
+-71.412798,41.824,1990-04-21 00:00:00+00,Providence,USA,Rhode Island School of Design,1990 Spring NE USA Tour,1990
+-71.412798,41.824,1997-05-06 00:00:00+00,Providence,USA,Lupo's Heartbreak Hotel,1997 East Coast USA Tour,1997
+-71.412798,41.824,1991-03-18 00:00:00+00,Providence,USA,Church House Inn,1991 Winter/Spring East Coast USA Tour,1991
+-71.412798,41.824,1989-10-05 00:00:00+00,Providence,USA,Living Room,1989 Canada/NE Tour,1989
+-71.412798,41.824,1995-04-12 00:00:00+00,Providence,USA,Lupo's Heartbreak Hotel,1995 USA East Coast Tour,1995
+-71.412798,41.824,1995-04-11 00:00:00+00,Providence,USA,Lupo's Heartbreak Hotel,1995 USA East Coast Tour,1995
+-71.412798,41.824,1999-12-02 00:00:00+00,Providence,USA,Lupo's Heartbreak Hotel,1999 Fall/Winter Southern USA Tour,1999
+-71.412798,41.824,1993-09-19 00:00:00+00,Providence,USA,Lupo's Heartbreak Hotel,1993 Fall USA/Canda Tour,1993
+-71.412798,41.824,1988-04-17 00:00:00+00,Providence,USA,Rocket,1988 Spring USA Tour,1988
+-81.034798,34.000698,1993-02-07 00:00:00+00,Columbia,USA,National Guard Armory,1993 Winter Southern USA Tour,1993
+-81.034798,34.000698,1991-05-10 00:00:00+00,Columbia,USA,Rockefella's,1991 Spring USA Tour,1991
+-81.034798,34.000698,1996-03-24 00:00:00+00,Columbia,USA,Clyde's,1996 Southern USA Tour,1996
+-81.034798,34.000698,1989-05-02 00:00:00+00,Columbia,USA,Dance Graphics,1989 Spring USA Tour,1989
+-79.762598,34.195397,1990-03-13 00:00:00+00,Florence,USA,Forefounders Hall,1990 Spring Southern USA Tour,1990
+-103.231,44.0805,1995-10-20 00:00:00+00,Rapid City,USA,Surbeck City School of Mines and Technology,1995 Fall USA/Canada Tour,1995
+-96.700297,43.549997,1995-10-19 00:00:00+00,Sioux Falls,USA,Pomp Room,1995 Fall USA/Canada Tour,1995
+-83.920699,35.960601,1993-04-05 00:00:00+00,Knoxville,USA,Electric Ballroom,1993 Spring USA Tour,1993
+-83.920699,35.960601,1991-05-05 00:00:00+00,Knoxville,USA,Flamingo,1991 Spring USA Tour,1991
+-83.920699,35.960601,1996-04-12 00:00:00+00,Knoxville,USA,Electric Ballroom,1996 Southern USA Tour,1996
+-95.3633,29.763299,1998-11-21 00:00:00+00,Houston,USA,Fitzgerald's,1998 Fall Mid-West USA Tour,1998
+-83.920699,35.960601,1990-03-24 00:00:00+00,Knoxville,USA,Backstage at the Library,1990 Spring Southern USA Tour,1990
+-83.920699,35.960601,1999-12-19 00:00:00+00,Knoxville,USA,Electric Ballroom,1999 Fall/Winter Southern USA Tour,1999
+-90.048998,35.149501,1990-05-02 00:00:00+00,Memphis,USA,Antennae Club,1990 Spring/Summer USA Tour,1990
+-90.048998,35.149501,1998-11-25 00:00:00+00,Memphis,USA,New Daisy Theater,1998 Fall Mid-West USA Tour,1998
+-90.048998,35.149501,1991-05-22 00:00:00+00,Memphis,USA,Antennae Club,1991 Spring USA Tour,1991
+-90.048998,35.149501,1993-04-07 00:00:00+00,Memphis,USA,Omni New Daisy,1993 Spring USA Tour,1993
+-86.784399,36.165899,1991-05-07 00:00:00+00,Nashville,USA,Cannery,1991 Spring USA Tour,1991
+-86.784399,36.165899,1999-12-20 00:00:00+00,Nashville,USA,328 Performance,1999 Fall/Winter Southern USA Tour,1999
+-86.784399,36.165899,1990-03-23 00:00:00+00,Nashville,USA,Elliston Square,1990 Spring Southern USA Tour,1990
+-86.784399,36.165899,1996-04-11 00:00:00+00,Nashville,USA,328 Performance,1996 Southern USA Tour,1996
+-86.784399,36.165899,1993-04-06 00:00:00+00,Nashville,USA,328 Performance,1993 Spring USA Tour,1993
+-97.743099,30.267196,1991-05-25 00:00:00+00,Austin,USA,Liberty Lunch,1991 Spring USA Tour,1991
+-97.743099,30.267196,1993-04-12 00:00:00+00,Austin,USA,Liberty Lunch,1993 Spring USA Tour,1993
+-97.743099,30.267196,2002-03-31 00:00:00+00,Austin,USA,Emo's,2002 Spring Southern USA/Texas Tour,2002
+-97.743099,30.267196,1988-05-28 00:00:00+00,Austin,USA,Liberty Lunch,1988 Spring USA Tour,1988
+-97.743099,30.267196,2002-03-30 00:00:00+00,Austin,USA,Emo's,2002 Spring Southern USA/Texas Tour,2002
+-97.743099,30.267196,1989-05-13 00:00:00+00,Austin,USA,Liberty Lunch,1989 Spring USA Tour,1989
+-97.743099,30.267196,1993-04-13 00:00:00+00,Austin,USA,Liberty Lunch,1993 Spring USA Tour,1993
+-97.743099,30.267196,1998-11-22 00:00:00+00,Austin,USA,Liberty Lunch,1998 Fall Mid-West USA Tour,1998
+-97.743099,30.267196,1990-05-05 00:00:00+00,Austin,USA,Liberty Lunch,1990 Spring/Summer USA Tour,1990
+-97.743099,30.267196,1995-11-16 00:00:00+00,Austin,USA,Liberty Lunch,1995 Fall USA/Canada Tour,1995
+-97.743099,30.267196,1995-11-17 00:00:00+00,Austin,USA,Liberty Lunch,1995 Fall USA/Canada Tour,1995
+-96.369997,30.6744,1993-04-11 00:00:00+00,Bryan,USA,Stafford Opera House,1993 Spring USA Tour,1993
+-96.334398,30.627996,1988-05-26 00:00:00+00,College Station,USA,,1988 Spring USA Tour,1988
+-96.806696,32.783097,1993-04-16 00:00:00+00,Dallas,USA,Bomb Factory,1993 Spring USA Tour,1993
+-96.806696,32.783097,1995-11-19 00:00:00+00,Dallas,USA,Bomb Factory,1995 Fall USA/Canada Tour,1995
+-96.806696,32.783097,1990-05-04 00:00:00+00,Dallas,USA,2301 Canton Warehouse,1990 Spring/Summer USA Tour,1990
+-96.806696,32.783097,1998-11-23 00:00:00+00,Dallas,USA,Galaxy,1998 Fall Mid-West USA Tour,1998
+-96.806696,32.783097,1988-05-29 00:00:00+00,Dallas,USA,Honest Place,1988 Spring USA Tour,1988
+-96.806696,32.783097,1991-05-24 00:00:00+00,Dallas,USA,Deep Ellum Live,1991 Spring USA Tour,1991
+-106.4869,31.758695,1993-04-19 00:00:00+00,El Paso,USA,Club 101,1993 Spring USA Tour,1993
+-106.4869,31.758695,1995-11-14 00:00:00+00,El Paso,USA,Metropolis,1995 Fall USA/Canada Tour,1995
+-106.4869,31.758695,2001-04-09 00:00:00+00,El Paso,USA,E9,2001 Spring Western USA Tour,2001
+-97.320897,32.725396,2002-04-01 00:00:00+00,Fort Worth,USA,Ridglea Theater,2002 Spring Southern USA/Texas Tour,2002
+-97.320897,32.725396,1989-05-11 00:00:00+00,Fort Worth,USA,Axis,1989 Spring USA Tour,1989
+-95.3633,29.763299,1990-05-06 00:00:00+00,Houston,USA,Axiom,1990 Spring/Summer USA Tour,1990
+-95.3633,29.763299,1988-05-27 00:00:00+00,Houston,USA,Powertools,1988 Spring USA Tour,1988
+-95.3633,29.763299,2002-03-28 00:00:00+00,Houston,USA,International Ballroom,2002 Spring Southern USA/Texas Tour,2002
+-95.3633,29.763299,1991-05-26 00:00:00+00,Houston,USA,Homage,1991 Spring USA Tour,1991
+-95.3633,29.763299,1996-04-08 00:00:00+00,Houston,USA,D&I Colonial Hall,1996 Southern USA Tour,1996
+-95.3633,29.763299,1989-05-12 00:00:00+00,Houston,USA,Axiom,1989 Spring USA Tour,1989
+-95.3633,29.763299,1993-04-10 00:00:00+00,Houston,USA,Phoenix Ballroom,1993 Spring USA Tour,1993
+-101.8552,33.577899,1993-04-18 00:00:00+00,Lubbock,USA,19th st. Depot Warehouse,1993 Spring USA Tour,1993
+-98.493599,29.4241,1990-05-07 00:00:00+00,San Antonio,USA,Cameo Theater,1990 Spring/Summer USA Tour,1990
+-98.493599,29.4241,1993-04-14 00:00:00+00,San Antonio,USA,Showcase Special Events,1993 Spring USA Tour,1993
+-98.493599,29.4241,2002-03-29 00:00:00+00,San Antonio,USA,Sunset Saloon,2002 Spring Southern USA/Texas Tour,2002
+-98.493599,29.4241,1995-11-18 00:00:00+00,San Antonio,USA,Showcase Special Events,1995 Fall USA/Canada Tour,1995
+-111.891098,40.760799,2001-04-14 00:00:00+00,Salt Lake City,USA,Bricks,2001 Spring Western USA Tour,2001
+-111.891098,40.760799,1990-06-06 00:00:00+00,Salt Lake City,USA,Speedway,1990 Spring/Summer USA Tour,1990
+-111.891098,40.760799,1995-10-24 00:00:00+00,Salt Lake City,USA,Fairgrounds Coliseum,1995 Fall USA/Canada Tour,1995
+-111.891098,40.760799,1993-05-16 00:00:00+00,Salt Lake City,USA,Utah State Fairpark Coliseum,1993 Spring USA Tour,1993
+-111.891098,40.760799,1989-06-01 00:00:00+00,Salt Lake City,USA,Speedway,1989 Spring USA Tour,1989
+-78.476697,38.029298,1993-04-04 00:00:00+00,Charlottesville,USA,Trax,1993 Spring USA Tour,1993
+-78.476697,38.029298,1999-12-07 00:00:00+00,Charlottesville,USA,Trax,1999 Fall/Winter Southern USA Tour,1999
+-77.306397,38.846197,1998-12-04 00:00:00+00,Fairfax,USA,George Mason University Johnson Center,1998 Fall/Winter Regional Dates,1998
+-78.868898,38.449596,1990-03-11 00:00:00+00,Harrisonburg,USA,James Madison University,1990 Spring Southern USA Tour,1990
+-78.868898,38.449596,2002-04-06 00:00:00+00,Harrisonburg,USA,James Madison U. Godwin Gym/MacRock,2002 Spring Southern USA/Texas Tour,2002
+-77.227799,38.704296,1990-12-26 00:00:00+00,Lorton,USA,Lorton Correctional Facility,1990 Fall/Winter Regional Dates,1990
+-77.226899,38.874295,1988-02-20 00:00:00+00,Merrifield,USA,Merrifield Community Center,1988 Winter/Spring Regional Dates,1988
+-76.285199,36.846799,1996-03-19 00:00:00+00,Norfolk,USA,Baitshack,1996 Southern USA Tour,1996
+-77.460299,37.553794,1988-04-28 00:00:00+00,Richmond,USA,New Horizons,1988 Spring USA Tour,1988
+-77.460299,37.553794,1987-10-07 00:00:00+00,Richmond,USA,New Horizons,1987 Fall/Winter Regional Dates,1987
+-77.460299,37.553794,1990-02-25 00:00:00+00,Richmond,USA,Metro,1990 Winter/Spring Regional Dates,1990
+-77.460299,37.553794,1996-04-14 00:00:00+00,Richmond,USA,Virginia Commonwealth University Shafer Court,1996 Southern USA Tour,1996
+-77.460299,37.553794,1989-04-30 00:00:00+00,Richmond,USA,New Horizons,1989 Spring USA Tour,1989
+-77.460299,37.553794,1991-02-20 00:00:00+00,Richmond,USA,Twisters,1991 Winter/Spring Regional Dates,1991
+-77.460299,37.553794,1993-02-21 00:00:00+00,Richmond,USA,Floodzone,1993 Winter Southern USA Tour,1993
+-77.460299,37.553794,1998-05-11 00:00:00+00,Richmond,USA,Floodzone,1998 Spring USA Tour,1998
+-77.460299,37.553794,2002-03-22 00:00:00+00,Richmond,USA,University of Richmond Greek Amphitheater,2002 Spring Southern USA/Texas Tour,2002
+-79.941398,37.270996,1996-04-13 00:00:00+00,Roanoke,USA,Alternative,1996 Southern USA Tour,1996
+-75.978001,36.852898,1991-05-01 00:00:00+00,Virginia Beach,USA,Peppermint Beach Club,1991 Spring USA Tour,1991
+-75.978001,36.852898,1990-03-10 00:00:00+00,Virginia Beach,USA,Atlantic Beach Club,1990 Spring Southern USA Tour,1990
+-75.978001,36.852898,1988-07-16 00:00:00+00,Virginia Beach,USA,Beach Theater,1988 Summer/Fall Regional Dates,1988
+-75.978001,36.852898,1993-02-04 00:00:00+00,Virginia Beach,USA,Peppermint Beach Club,1993 Winter Southern USA Tour,1993
+-73.196796,42.8781,1993-09-16 00:00:00+00,Bennington,USA,Bennington College,1993 Fall USA/Canda Tour,1993
+-73.196796,42.8781,1992-04-10 00:00:00+00,Bennington,USA,Bennington College,1992 Spring East Coast Tour,1992
+-73.170997,44.466995,1989-10-04 00:00:00+00,Burlington,USA,242 Main,1989 Canada/NE Tour,1989
+-73.170997,44.466995,1993-09-13 00:00:00+00,Burlington,USA,Cook Commons,1993 Fall USA/Canda Tour,1993
+-73.170997,44.466995,1995-04-09 00:00:00+00,Burlington,USA,Memorial Hall,1995 USA East Coast Tour,1995
+-73.170997,44.466995,1991-03-14 00:00:00+00,Burlington,USA,The Border,1991 Winter/Spring East Coast USA Tour,1991
+-122.200698,47.610397,1993-05-09 00:00:00+00,Bellevue,USA,YMCA,1993 Spring USA Tour,1993
+-122.488197,48.759599,1990-05-30 00:00:00+00,Bellingham,USA,Underground / 1414 Cornwell,1990 Spring/Summer USA Tour,1990
+-119.137199,46.211298,1993-05-14 00:00:00+00,Kennewick,USA,Fairgrounds,1993 Spring USA Tour,1993
+-122.900698,47.037895,1988-05-16 00:00:00+00,Olympia,USA,Evergreen University,1988 Spring USA Tour,1988
+-122.900698,47.037895,1989-05-26 00:00:00+00,Olympia,USA,Rignall Hall,1989 Spring USA Tour,1989
+-122.900698,47.037895,1990-06-02 00:00:00+00,Olympia,USA,Chambers Grange Hall,1990 Spring/Summer USA Tour,1990
+-122.900698,47.037895,1995-10-29 00:00:00+00,Olympia,USA,Capitol Theater,1995 Fall USA/Canada Tour,1995
+-122.900698,47.037895,1991-08-25 00:00:00+00,Olympia,USA,Capitol Theater,1991 Summer/Fall USA/Canada Tour,1991
+-122.900698,47.037895,1993-05-08 00:00:00+00,Olympia,USA,Capitol Theater,1993 Spring USA Tour,1993
+-122.900698,47.037895,1999-02-27 00:00:00+00,Olympia,USA,Capitol Theater,1999 West Coast USA Tour,1999
+-122.3321,47.606198,1991-08-26 00:00:00+00,Seattle,USA,OZ,1991 Summer/Fall USA/Canada Tour,1991
+-122.3321,47.606198,1989-05-27 00:00:00+00,Seattle,USA,Washington Performance Hall,1989 Spring USA Tour,1989
+-122.3321,47.606198,1999-02-28 00:00:00+00,Seattle,USA,DV8,1999 West Coast USA Tour,1999
+-122.3321,47.606198,1995-10-27 00:00:00+00,Seattle,USA,DV8,1995 Fall USA/Canada Tour,1995
+-122.3321,47.606198,1993-05-06 00:00:00+00,Seattle,USA,Oz,1993 Spring USA Tour,1993
+-122.3321,47.606198,1990-06-01 00:00:00+00,Seattle,USA,Lake City Concert Hall,1990 Spring/Summer USA Tour,1990
+-117.4291,47.659696,1988-05-13 00:00:00+00,Spokane,USA,123 Arts,1988 Spring USA Tour,1988
+-122.444298,47.252895,1988-05-15 00:00:00+00,Tacoma,USA,Tacoma Community World Theater,1988 Spring USA Tour,1988
+-120.5059,46.602096,1995-10-26 00:00:00+00,Yakima,USA,Twilight Terrace,1995 Fall USA/Canada Tour,1995
+-91.498497,44.811398,1998-11-14 00:00:00+00,Eau Claire,USA,"University of Wisconsin, Fire Room",1998 Fall Mid-West USA Tour,1998
+-88.019799,44.519198,1993-05-26 00:00:00+00,Green Bay,USA,Orpheum Theater,1993 Spring USA Tour,1993
+-88.019799,44.519198,1989-06-12 00:00:00+00,Green Bay,USA,Kutska Hall,1989 Spring USA Tour,1989
+-88.019799,44.519198,2001-06-26 00:00:00+00,Green Bay,USA,Riverside Ballroom,2001 Summer Mid-West/Canada Tour,2001
+-88.019799,44.519198,1995-10-12 00:00:00+00,Green Bay,USA,Riverside Ballroom,1995 Fall USA/Canada Tour,1995
+-88.019799,44.519198,1991-08-11 00:00:00+00,Green Bay,USA,Wherehouse,1991 Summer/Fall USA/Canada Tour,1991
+-88.019799,44.519198,1990-06-18 00:00:00+00,Green Bay,USA,Howard Haus,1990 Spring/Summer USA Tour,1990
+-89.401201,43.0731,1991-08-09 00:00:00+00,Madison,USA,Turner Hall,1991 Summer/Fall USA/Canada Tour,1991
+-89.401201,43.0731,1990-06-19 00:00:00+00,Madison,USA,Neighborhood House,1990 Spring/Summer USA Tour,1990
+-87.906497,43.038898,1991-08-10 00:00:00+00,Milwaukee,USA,Central Park,1991 Summer/Fall USA/Canada Tour,1991
+-87.906497,43.038898,1995-10-13 00:00:00+00,Milwaukee,USA,Rave,1995 Fall USA/Canada Tour,1995
+-87.906497,43.038898,1993-09-02 00:00:00+00,Milwaukee,USA,Eagle's Ballroom,1993 Fall USA/Canda Tour,1993
+-87.906497,43.038898,1989-06-09 00:00:00+00,Milwaukee,USA,Crystal Palace,1989 Spring USA Tour,1989
+-87.906497,43.038898,1998-11-13 00:00:00+00,Milwaukee,USA,Rave,1998 Fall Mid-West USA Tour,1998
+-88.231497,43.011697,1990-06-15 00:00:00+00,Waukesha,USA,Waukesha Expo Center,1990 Spring/Summer USA Tour,1990
+-81.632596,38.349797,1998-11-28 00:00:00+00,Charleston,USA,Common Grounds,1998 Fall Mid-West USA Tour,1998
+-82.445199,38.419298,2002-04-05 00:00:00+00,Huntington,USA,Stone Monkey,2002 Spring Southern USA/Texas Tour,2002
+-79.955899,39.6295,1989-04-28 00:00:00+00,Morgantown,USA,Dry House,1989 Spring USA Tour,1989
+-79.955899,39.6295,1998-11-29 00:00:00+00,Morgantown,USA,123 Pleasant St.,1998 Fall Mid-West USA Tour,1998
+-79.955899,39.6295,1990-06-30 00:00:00+00,Morgantown,USA,Machine Shop,1990 Spring/Summer USA Tour,1990
+-79.955899,39.6295,1988-05-06 00:00:00+00,Morgantown,USA,Dry House,1988 Spring USA Tour,1988
+-105.591099,41.3114,2001-04-16 00:00:00+00,Laramie,USA,Cowboy Bar,2001 Spring Western USA Tour,2001
+-105.591099,41.3114,1993-05-19 00:00:00+00,Laramie,USA,University of Wyoming Ballroom,1993 Spring USA Tour,1993
+-2.998398,51.587699,1988-11-28 00:00:00+00,Newport,Wales,TJ's,1988 Fall European Tour,1988
+14.505099,46.0511,1990-10-21 00:00:00+00,Ljubljana,Yugoslavia,University Student Center,1990 Fall European Tour,1990
+14.505099,46.0511,1988-11-12 00:00:00+00,Ljubljana,Yugoslavia,Menza N,1988 Fall European Tour,1988
+15.977996,45.814397,1990-10-22 00:00:00+00,Zagreb,Yugoslavia,Galleria,1990 Fall European Tour,1990

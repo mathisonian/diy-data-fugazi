@@ -29,6 +29,8 @@ class YT extends React.Component {
         disablekb:1,
         showinfo:0,
         autohide:1,
+        list:'PLFC0Qi1EL6llDASsLCPoToruYR9OD-09s',
+        listType:'playlist',
         rel:0,
         modestbranding:1,
         iv_load_policy: 3,

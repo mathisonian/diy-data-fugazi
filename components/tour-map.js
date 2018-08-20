@@ -3,12 +3,8 @@ import React, {Component} from 'react';
 import MapGL, {FlyToInterpolator} from 'react-map-gl';
 import DeckGL, {LineLayer, ArcLayer, ScatterplotLayer} from 'deck.gl';
 
-const Victory = require('victory');
-const Color = require('color');
-
 // Set your mapbox access token here
 const MAPBOX_ACCESS_TOKEN = 'pk.eyJ1IjoibWF0aGlzb25pYW4iLCJhIjoiY2l5bTA5aWlnMDAwMDN1cGZ6Y3d4dGl6MSJ9.JZaRAfZOZfAnU2EAuybfsg';
-
 
 const d3 = require('d3');
 const Chromatic = require('d3-scale-chromatic');
@@ -18,6 +14,13 @@ const Chromatic = require('d3-scale-chromatic');
 const color = d3.scaleSequential(Chromatic.interpolateYlGnBu).domain([1987, 2002]);
 
 const VIEWPORTS = {
+  'asia': {
+    latitude: 12.8797,
+    longitude: 121.7740,
+    pitch: 20,
+    zoom: 3,
+    bearing: -30
+  },
   'australia': {
     latitude: -25.2744,
     longitude: 133.7751,
@@ -57,12 +60,21 @@ const VIEWPORTS = {
 }
 
 
+
 let initialViewport;
 
 class App extends Component {
 
   constructor(props) {
     super(props);
+
+    this.getViewport = (v) => {
+      let vp = Object.assign({}, VIEWPORTS[v]);
+      if (this.props.isMobile) {
+        vp.zoom = vp.zoom - 1;
+      }
+      return vp;
+    }
 
     initialViewport = Object.assign({
       latitude: 0,
@@ -85,11 +97,13 @@ class App extends Component {
 
     const data = this.props.data;
     const tours = {};
+    const countries = [];
     data.forEach((d) => {
       if (!tours[d.tour]) {
         tours[d.tour] = [];
         // colors[d.tour] = [255 * Math.random(), 255 * Math.random(), 255 * Math.random()];
       }
+      countries.push(d.country)
       tours[d.tour].push(d);
     });
     Object.keys(tours).forEach((tourName) => {
@@ -98,8 +112,9 @@ class App extends Component {
       tours[tourName] = tourDates;
     })
 
+    // console.log([... new Set(countries)]);
+    // console.log([... new Set(countries)].length);
 
-    console.log('setting tour names: ', Object.keys(tours))
     this.props.updateProps({ tourNames: Object.keys(tours) });
 
     this.state = {
@@ -135,7 +150,7 @@ class App extends Component {
     if (newProps.focus !== this.props.focus) {
       if (newProps.focus) {
         this.setState({
-          viewport: Object.assign({}, this.state.viewport, VIEWPORTS[newProps.focus] || {})
+          viewport: Object.assign({}, this.state.viewport, this.getViewport(newProps.focus) || {})
         })
       } else {
         this.setState({
@@ -145,7 +160,7 @@ class App extends Component {
     } else if (newProps.stepFocus !== this.props.stepFocus) {
       if (newProps.stepFocus) {
         this.setState({
-          viewport: Object.assign({}, this.state.viewport, VIEWPORTS[newProps.stepFocus] || {})
+          viewport: Object.assign({}, this.state.viewport, this.getViewport(newProps.stepFocus) || {})
         })
       } else {
         this.setState({
@@ -251,33 +266,22 @@ class App extends Component {
       return <div className="idyll-loading">Loading dataset...</div>;
     }
 
-    // const { longitude, latitude, zoom, pitch } = viewport;
-
-    // const layers = ;
     const _onChangeViewport = this._onChangeViewport.bind(this);
 
     return (
-    //   <Victory.VictoryAnimation duration={2000} data={{ longitude, latitude, zoom, pitch }}>
-    //     {
-    //       (tweenedViewport) => {
-    //         return (
-              <MapGL
-                {...viewport}
-                // {...tweenedViewport}
-                mapStyle="mapbox://styles/mapbox/dark-v9"
-                dragRotate={true}
-                onViewportChange={_onChangeViewport}
-                mapboxApiAccessToken={MAPBOX_ACCESS_TOKEN}>
-                <DeckGL {...viewport} /*{...tweenedViewport}*/
-                  layers={this.getLayers()}
-                  onWebGLInitialized={this._initialize.bind(this)}
-                  />
-              </MapGL>
-            )
-    //       }
-    //     }
-    //   </Victory.VictoryAnimation>
-    // )
+        <MapGL
+          {...viewport}
+          // {...tweenedViewport}
+          mapStyle="mapbox://styles/mapbox/dark-v9"
+          dragRotate={true}
+          onViewportChange={_onChangeViewport}
+          mapboxApiAccessToken={MAPBOX_ACCESS_TOKEN}>
+          <DeckGL {...viewport} /*{...tweenedViewport}*/
+            layers={this.getLayers()}
+            onWebGLInitialized={this._initialize.bind(this)}
+            />
+        </MapGL>
+      )
   }
 }
 
